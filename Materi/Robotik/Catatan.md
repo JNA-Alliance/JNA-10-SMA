@@ -15,3 +15,15 @@
   - Frame (Tulang): Sebagai tulang yang menyangga antara servo pada robot. Juga yang membentuk robot menjadi berbagai macam, dan penunjang penampilan robot.
   - Chasis (Rangka): Rangka utama pada robot, biasanya menjadi badan bagi si robot.
   - Support: Komponen pendukung terbentuknya robot, seperti baud dan mur.
+
+**14/08/2020**
+- Program yang digunakan: Arduino IDE
+- Tombol check pada kiri atas adalah tombol compiler
+- Tombol uploader untuk mengunggah program ke board
+- Void Setup: Untuk kode yang dieksekusi sekali. Digunakan untuk setup.
+  - Yang dapat disetup: 
+    - Mensetting komponen menjadi INPUT atau OUTPUT
+- Void Loop: Untuk kode yang dieksekusi berulang-ulang sampai program dimatikan.
+
+- ARDUINO LANGUAGE FUNCTIONS:
+  - digitalWrite(componenets, {HIGH/LOW}) // High = 5V, Low < 5

@@ -36,3 +36,9 @@
     - Kimia Analitik: Ilmu yang mempelajari tentang kandungan suatu zat.
     - Kimia Lingkungan: Ilmu yang mempelajari tentang dampak pencemaran.
     - Biokimia: Mempelajari tentang materi-materi- di dalam proses metabolisme tubuh.
+- Metode Ilmiah
+  - Penting bagi ilmuwan untuk memahami metode ilmiah yang baik dan benar. Gagasan yang mereka usulkan hanya bisa terjawab melalui metode ilmiah. Adapaun langkah-langkah yang harus dilakukan dalam metode ilmiah adalah sebagai berikut:
+    - Merumuskan masalah dengan cara fokus pada bahasan tertentu atau tema tertentu
+    - Mengkaji teori atau penelitian sebelumnya yang bertujuan untuk menghindari tumpang tindih penelitian. Artinya jangan sampai penelitian yang dilakukan sudah pernah dilakukan sebelumnya oleh orang lain.
+    - Mengajukan hipotesi bertujuan untuk mendapatkan kesimpulan sementara berdasarkan analisis yang telah dilakukan
+    - 
