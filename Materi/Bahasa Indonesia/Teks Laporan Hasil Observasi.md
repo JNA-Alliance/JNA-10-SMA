@@ -1,6 +1,6 @@
 # Teks Laporan Hasil Observasi
 
-- Pengertian Teks Laporan Hasil Observasi: Teks laporan yang memuat klasifikasi mengenai jenis sesuatu berdasarkan kriteria atau melaporkan hasil observasi secara sistematis dan objektif berupa hasil pengamatan untuk memecahkan suatu persoalan atau menguji suatu hipotesis.
+- Pengertian Teks Laporan Hasil Observasi: (a) Teks laporan yang memuat klasifikasi mengenai jenis sesuatu berdasarkan kriteria atau melaporkan hasil observasi secara sistematis dan objektif berupa hasil pengamatan untuk memecahkan suatu persoalan atau menguji suatu hipotesis. (b) Teks yang berisi jabaran umum mengenai sesuatu yang berisi penjabaran umum mengenai sesuatu yang disusun dan didasarkan pada hasil pengamatan dan fakta yang ada melalui kalimat deskripsi. (c) Teks yang berfungsi untuk menjelaskan suatu objek atau fenomena yang didasari oleh hasil pengamatan. Dalam penusunan teks ini memaparkan fakta2 dengan jelas dan terperinci.
 - Ciri Umum Teks Laporan Hasil Observasi
   1. Bersifat objektif dan tidak memihak
   2. Harus ditulis berdasarkan fakta saat pengamatan
@@ -12,6 +12,10 @@
 - Bagian dari Teks Laporan Hasil Observasi
   1. Pendahuluan
   2. Pembahasan
+  3. Simpulan
+- Struktur Teks Laporan Hasil Observasi
+  1. Pernyataan Umum
+  2. Deskripsi Manfaat
   3. Simpulan
 - Pengertian Laporan: Penyampaian informasi dari petugas/pejabat tertentu dalam suati sistem administrasi.
 - Sifat-sifat Laporan:
@@ -60,3 +64,8 @@
   - Kesederhanaan
   - Kejelasan
 - **Kesimpulan**: Laporan adalah penyampaian informasi yang ditulis secara lengkap, jelas, sistematis, objektif, dan tepat waktu oleh seseorang kepada orang lain atau pejabat, yang mempunyai tujuan-tujuan pasti dan dapat dipertanggung jawabkan.
+
+- Istilah teknis digunakan secara terbatas dalam bidang tertentu
+- Istilah memiliki makna tetap. Tidak dipegaruhi konteks kalimat
+- Istilah bersifar monosemantik atau bermakna tunggal. Serta tidak memiliki sinonim maupun antonim. Makna istilah dijelaskan melalui pendefinisian.
+- 
