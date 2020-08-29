@@ -27,3 +27,18 @@
 
 - ARDUINO LANGUAGE FUNCTIONS:
   - digitalWrite(componenets, {HIGH/LOW}) // High = 5V, Low < 5
+
+**28/08/2020**
+- Ilmu Math -> Rumus yang kita gunakan
+- Contohnya: Sensor ultrasonik
+
+- **ARDUINO**
+- Pin Digital: 0-13
+- Pin Analog: A0-A5
+- Pin Hambatan: GND/Ground
+- Pin Tegangan: Pin 3.3V dan 5V
+
+- **SENSOR API**
+- Potensiometer pada sensor Api adalah yang warna Biru
+- Pin D0 dihubungkan ke pin digital
+- Pin A0 dihubungkan ke pin Analog, menghasilkan nilai kisaran 0-1024
