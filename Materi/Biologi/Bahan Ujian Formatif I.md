@@ -27,6 +27,18 @@
 3. Perbedaan hewan Oriental dengan hewan Australis
 4. Pengertian garis Wales dan Weber
 5. Zona persebaran fauna di dunia
+    - Wilayah yang ditempati oleh setiap makhluk hidup dipelajari dalam ilmu biologi: BIOGEOGRAFI.
+    - Biogeografi terbagi menjadi 2 berdasarkan Flora dan Fauna:
+        - Zoografi: Wilayah fauna/hewan
+        - Fitografi: Wilayah flora
+    - ![](https://i.ibb.co/Q8b5tSJ/Persebaran-Fauna-Di-Dunia.png)
+    - Zona Persebaran:
+        1. PALEARTIK: Eropa dan Asia Utara, Kebanyakan berbulu lebat (Contoh: Beruang Kutub, Serigala, Rubah, dll.)
+        2. NEARTIK: Amerika Utara, Kebanyakan berbulu lebat
+        3. NEOTROPIK: Amerika Tengah dan Selatan, Didominasi hewan yang mampu memanjat pohon (Monyet, Kera, Sloth)
+        4. EHIOPIANS: Afrika, Hewan Mamalia berukuran besar, berbulu tipis
+        5. ORIENTAL: India dan Asia Tenggara, Mamalia besar, Hewan Primata
+        6. AUSTRALIS: Australia, Mamalia Kecil, Hewan berkantung
 6. Flora dan Fauna Endemik di Indonesia
 7. Manfaat keanekaragaman Hayati bagi manusia dalam berbagai bidang
 8. Pelestarian Insitu dan Ekssitu
