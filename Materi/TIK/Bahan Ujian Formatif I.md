@@ -45,4 +45,5 @@
 
 # Rangkuman
 - Jikalau data tidak terupdate, Gunakan "Update Link"
-- "Link & Keep Srouce Formatting" & 
+- "Link & Keep Source Formatting" & "Link & Use Destination Style" untuk menghubungkan DATA di lembar kerja Excel dengan Word
+- "Use Destination Theme & Link Data

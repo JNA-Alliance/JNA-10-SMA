@@ -30,7 +30,7 @@
   - Meliputi susunan, struktur, sifat, serta pertumbuhan materi dan yang menyertainya. Secara umum, kimia dibedakan menjadi 2: 
   - Kimia Deskriptif: Ilmu kimia yang didapatkan melalui pengamatan sifat zat.
   - Kimia Teoritis: Ilmu kimia yang membahas tentang materi. Contoh Kimia Teoritis:
-    - Kimia Fisika: Ilmu yang mempelajari hubungan antara Kimia dan Fisika. Bahasan dalam kimia Fisika adalah zat secara makriskopis atomuk maupun subatomik ditinjau berdasarkan hukum-hukum dalam Fisika.
+    - Kimia Fisika: Ilmu yang mempelajari hubungan antara Kimia dan Fisika. Bahasan dalam kimia Fisika adalah zat secara makriskopis atomik maupun subatomik ditinjau berdasarkan hukum-hukum dalam Fisika.
     - Kimia Organik: Ilmu yang mempelajari tentang struktur, sifat, dan komposisi senyawa organik.
     - Kimia Anorganik: Ilmu yang mempelajari tentang struktur, sifat, dan komposisi.
     - Kimia Analitik: Ilmu yang mempelajari tentang kandungan suatu zat.
