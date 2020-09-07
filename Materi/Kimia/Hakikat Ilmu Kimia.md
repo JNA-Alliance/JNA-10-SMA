@@ -41,4 +41,50 @@
     - Merumuskan masalah dengan cara fokus pada bahasan tertentu atau tema tertentu
     - Mengkaji teori atau penelitian sebelumnya yang bertujuan untuk menghindari tumpang tindih penelitian. Artinya jangan sampai penelitian yang dilakukan sudah pernah dilakukan sebelumnya oleh orang lain.
     - Mengajukan hipotesi bertujuan untuk mendapatkan kesimpulan sementara berdasarkan analisis yang telah dilakukan
-    - 
+    - Melakukan eksperimen untuk menguji hipotesis
+    - Mengumpulkan data
+    - Mengolah dan menganalisis data-data hasil operasi
+    - Membuat kesimpulan
+    - Melaporkan hasil penelitian dalam bentuk laporan ilmiah
+- Hubungan antara ilmu Kimia dengan ilmu lain: Sebagai salah satu ilmu terapan, Kimia masih membutuhkan ilmu-ilmu pendukung lainnya. Hubungan antara ilmu:
+  1. Bidan Kedokteran: Ilmu kimia digunakan untuk mendiagnosa suatu pengakit, teknologi rekayasa genetika dan radiologi.
+  2. Bidang Farmasi: Dijadikan dasar dalam pembuatan obat.
+  3. Bidang Kriminologi: Untuk proses visum, pemeriksaan urine, dll.
+  4. Bidang Pertanian: Dasar pembuatan pupuk, pestisida, dan pemulihan.
+  5. Bidang Biologi: Reaksi-reaksi dalam makhluk hidup.
+  6. Bidang Seni: Untuk menentukan keaslian suatu lukisan
+  7. Arkeologi: Menentukan umur fosil melalui perubahan inti radioaktif.
+- Manfaat mempelajari ilmu kimia:
+  - Memahami alam beserta prosesnya.
+  - Memahami produk2 yang berguna dalam kebutuhan sehati-hari.
+  - Memahami berbagai jenis produk teknologi.
+  - Memahami produk kimia yang dapat menimbulkan masalah.
+  - Memahami bahan2 kimia beracun.
+- Keselamatan kerja
+  - Tata tertib Laboratorium
+    1. Menggunakan jas laboratorium, kacamata pengaman, dan sepatu tertutup.
+    2. Membaca petunjuk praktikum dengan cermat
+    3. Tidak makan dan minum di laboratorium
+    4. Mencuci tangan dengan sabun sebelum dan sesudah praktikum
+    5. Tidak menggaruk kulit yang terkena bahan kimia
+  - Penggunaan Bahan Kimia
+    1. Jangan menggunakan bahan kimia yang tidak jelas labelnya
+    2. Jangan menyentuh bahan kimia dengan tangan
+    3. Gunakan pipet untuk mengambil larutan
+    4. Dilarang memanaskan atau menguapkan cairan oroganik di tempat terbuka
+    5. Dilarang mencium aroma zat kimia secara langsung
+  - Penanganan alat dan bahan kimia
+    1. Jika bahan kimia atau uap beracun telah memenuhi ruangan, segera lakukan evakuasi.
+    2. Zat kimia yang tyumpah di meja praktikum atau lantai harus segera dinetralkan sebelum dibersihkan
+    3. Untuk membaca tinggi larutan pada buret, posisi mata harus sejajar
+    4. Mengambil bahan2 yang menghasilkan gas berbahaya harus dikerjakan di lemari asam
+    5. Bahan kimita yang diambil tidak boleh dikembalikan ke wadah penyimpanan
+- Alat-alat laboratorium
+  1. Gelas Kimia: Untuk menyiapkan larutan
+  2. Labu Erlenmeyer: Untuk Mereaksikan larutan dan tutrasu
+  3. Gelas Ukur: Untuk mengukur volume larutan
+  4. Bunsen: Untuk memanaskan larutan
+  5. Buret: Digunakan untuk titrasi
+  6. Pipet TetesL Untuk meneteskan atau mengambil larutan dengan jumlah kecil
+  7. Tabung reaksi dan rak tabung reaksi: Digunakan untuk mereaksikan 2 atau lebih zat
+  8. Statif: Untuk menegakkan Buret, Corong, dan peralatan gelas lainnya.
