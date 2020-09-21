@@ -1,0 +1,7 @@
+- Siapkan nama-nama kabinet dan masanya (Nama Kabinet)
+- Nama pemegang menteri
+- LPNK, dulu adalah LPND Lembaga Pemerintahan Non Departemen
+- Arti pemerintahan sistem presidensial ada 4
+  - Presiden sebagai kepala negara
+  - Menteri2 pembantu presiden
+  - Diangkat dan diberhentikan presiden

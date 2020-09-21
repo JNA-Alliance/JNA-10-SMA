@@ -1,0 +1,20 @@
+# Virus - Materi Biologi
+- Video Referensi: https://www.youtube.com/watch?v=FGC9gL7Ta2A
+- Ciri-ciri Virus:
+    - Virus itu Aseluler (Bukan Sel). Karena tidak memiliki struktur yang lengkap seperti umunya sebuah sel (tidak memiliki inti sel dan organel-organel sel)
+    - Makhluk Hidup Peralihan (Dari benda mati dapat menjadi hidup dan sebaliknya)
+        - Virus disebut benda mati jikalau diluar inang
+        - Sel inang yang ditepati oleh virus disebut HOSPES
+    - Sangat kecil (20 sampai 300 MiliMikro/NanoMeter)
+    - Tidak dapat melakukan metabolisme diluar makhluk hidup
+    - Hanya dapat diamati dibawah mikroskop elektron
+    - Virus tidak memiliki Asam Nukleat (Materi Genetik yang berfungsi sebagai tempat penyimpanan informasi genetik)
+    - Virus bersifat Parasit Obligat
+    - Tubuh susun tersusun atau terlindungi oleh KAPSID (Protein)
+- Struktur Virus
+    - Virus T = BAKTERIOFAGE
+    - BACTERIA + FAGE (MEMAKAN) = Virus pemakan bakteri
+    - Kepala/Kapsid yang tersusun atas protein. Setiap satuan protein disebut Kapsomer
+    - Ekor tersusun dari protein dan lemak
+    - Sifat Protein = Termolabil (Dapat dipengaruhi oleh suhu, terutama panas)
+    - Denaturasi = Kerusakan menjadi keras/mengeras
