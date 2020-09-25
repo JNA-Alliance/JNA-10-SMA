@@ -18,3 +18,12 @@
     - Ekor tersusun dari protein dan lemak
     - Sifat Protein = Termolabil (Dapat dipengaruhi oleh suhu, terutama panas)
     - Denaturasi = Kerusakan menjadi keras/mengeras
+- Tubuh Virus terdiri dari Protein (Penyelubung Virus), Lipid (Lemak) dan Asam Nukleat.
+- **KLASIFIKASI VIRUS**
+    - Berdasarkan ada tidaknya selubung pada nukleokapsid
+        - Virus berselubung: virus yang selubungnya terdiri dari lipoprotein dan glikoprotein. Contoh: Poxyvirus, Herpesvirus, Togavirus, Rhabdovirus, dan Paramyxovirus
+        - Selubung Virus: membran pembungkus yang menyelubungi (menutup) kapsid
+            - Kandungan: Fosfolipid dan protein dari sel inang protein, dan glikoprotein yang berasal dari virus
+            - Fungsi: Melindungi materi genetik (genom)
+        - Virus telanjang: virus yang tidak memiliki selubung pada nukleokapsidnya. Contoh: Papovirus, Adenovirus, Picornavirus, dan Reovirus.
+    - Berdasarkan jumlah kapsomernya
