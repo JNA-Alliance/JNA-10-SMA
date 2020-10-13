@@ -29,3 +29,4 @@
             - s = -(1/2) (Arah kebawah)
         - Diagram AUFBAU 
         - ![](https://i.ibb.co/5GdS3ds/image.png)
+- Larangan Pauli: Menyatakan bahwa tidak ada atom yang memiliki keempat bilangan kuantum yang sama    
