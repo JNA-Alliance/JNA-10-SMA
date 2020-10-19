@@ -3,11 +3,11 @@
 1. Tokoh-tokoh biologi
     - Klasifikasi Makhluk Hidup:
         - Carolus Linnaeus (Bapak Taksonomi): menciptakan sistem klasifikasi hierarkis dan Binomial Nomenklatur.
-        - Ernst Haeckel
-        - Herbert Copeland
-        - Robert H Whittaker
-        - Carl Woese
-        - Cavelier Smith
+        - Ernst Haeckel: Mengusulkan kingdom Protista
+        - Herbert Copeland: Memasukkan Bakteria kedalam kingdom Monera
+        - Robert H Whittaker: Mengusulkan kingdom sendiri untuk Jamur
+        - Carl Woese: Membagi kelompok Monera menjadi dua yaitu Archaebacteria dan Eubacteria. Mengelompokkan organisme menjadi 6 kingdom
+        - Cavelier Smith: 
     - Sejarah penemuan virus (dengan foto):
         - Adolf Meyer
         - Dimitri Ivanovsky
