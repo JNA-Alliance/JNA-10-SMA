@@ -6,13 +6,21 @@
         - Ernst Haeckel: Mengusulkan kingdom Protista
         - Herbert Copeland: Memasukkan Bakteria kedalam kingdom Monera
         - Robert H Whittaker: Mengusulkan kingdom sendiri untuk Jamur
-        - Carl Woese: Membagi kelompok Monera menjadi dua yaitu Archaebacteria dan Eubacteria. Mengelompokkan organisme menjadi 6 kingdom
-        - Cavelier Smith: 
+        - Carl Woese: Membagi kelompok Monera menjadi dua yaitu Archaebacteria dan Eubacteria. Mengelompokkan organisme menjadi 6 kingdom: Eubacteria, Archaebacteria, Protista, Fungi, Plantae, Animalia
+        - Cavelier Smith: Klasifikasi Kingdom 6: Bacteria, Protozoa, Chromista, Fungi, Plantae, Animalia
     - Sejarah penemuan virus (dengan foto):
-        - Adolf Meyer
-        - Dimitri Ivanovsky
+        - Adolf Meyer 
+        ![](https://i.ibb.co/XyLfd3z/Adolf-Bernhard-Meyer-Custom.jpg)
+        German, Pertama kali melakukan riset terhadap virus. Tahun 1882 penyakit yang menimbulkan bintik kekuningan pada daun tembakau. Mencoba dengan menyemprotkan getah tanaman.
+        - Dmitri Ivanovsky
+        ![](https://upload.wikimedia.org/wikipedia/commons/8/8f/Dmitry_Iosifovich_Ivanovsky.jpg)
+        Russian, Menyaring getah tanaman tembakau yang sakit dengan penyaring bakteri. Lalu di semprotkan. Menyimpulkan bakteri patogen yang berukuran sangat kecil.
         - Martinus Beijerinck
-        - Wendel Stanley
+        ![](https://photos.geni.com/p13/da/aa/7f/fc/53444846609d0189/martinus_willem_beijerinck_1851-1931_large.jpg)
+        Dutch, Menemukan fakta bahwa partikel penyerang tembakau dapat bereproduksi pada tanaman tembakai, tetapi tidak dapat dibiakkan pada medium pertumbuhan bakteri. Tidak mati ketika dimasukkan ke dalam alkohol.
+        - Wendell Stanley
+        ![](https://cdn.britannica.com/s:300x300/76/9276-004-8ADB7244/Wendell-Stanley-1970.jpg)
+        Berhasil mengkristalkan partikel yang menyerang tanaman, kemudian dinamakan TMV (Tobacco Mosaic Virus)
     - Bakteri
         - Anthony van Leewenhoek
 2. Ci-Um:
