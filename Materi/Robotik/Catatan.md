@@ -33,12 +33,14 @@
 - Contohnya: Sensor ultrasonik
 
 - **ARDUINO**
-- Pin Digital: 0-13
-- Pin Analog: A0-A5
+- Pin Digital: 0-13, Nilai yang diberikan 0 dan 1 (nilai logic)
+- Pin Analog: A0-A5, Nilai yang diberikan 0-1024 (nilai range)
 - Pin Hambatan: GND/Ground
-- Pin Tegangan: Pin 3.3V dan 5V
+- Pin Tegangan: Pin 3.3V, 5V, dan V-in untuk tegangan > 5V
 
 - **SENSOR API**
 - Potensiometer pada sensor Api adalah yang warna Biru
 - Pin D0 dihubungkan ke pin digital
 - Pin A0 dihubungkan ke pin Analog, menghasilkan nilai kisaran 0-1024
+
+****
