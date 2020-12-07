@@ -1,0 +1,57 @@
+# Bahan Ujian Semester I - Agama Kristen
+
+- Nilai: **Sesuatu yang diabut oleh seseorang atau sekelompok masyarakat yang biasanya dapat dijadikan landasan, alasan, atau motivasi untuk bertindak**
+- Sifat-sifat nilai menurut Bambang Daroeso:
+    - Nilai bersifat realitas abstrak karena tidak dapat diindra. Tetapi objek yang memiliki nilai tersebut dapat diindera. Contoh: Kejujuran adalah nilai yang tidak dapat diindra, tetapi, objeknya yaitu tindakan jujur dapat diindera.
+    - Nilai bersifat normatif: Nilai mengandung harapan, cita2, dan suatu keharusan sehingga nilai memiliki sifat ideal. Diwujudkan dalam bentuk norma sebagai landasan manusia dalam bertindak. COntoh: Keadilan, semura orang berharap mendapatkan keadilan dan berperilaku sesuai keadilan.
+    - Nilai adalah daya dorong atau motivator. Manusia adalah pendukung nilai, yang bertindak berdasarkan nilai yang diyakini, misalnya ketakwaan.
+- Nilai dibedakan dalam 3 macam (dalam filsafata):
+    - Nilai logika (benar-salah): Jika seorang siswa menjawab suatu pertanyaan dengan benar, ia benar secara logika. Sebaliknya, jikalau ia keliru menjawab, maka ia salah.
+    - Nilai estetika (indah-tidak indah): Saat melihat pemandangan, menonton pertunjukan, atau merasakan makanan. Nilai estetika bersifat subjektif pada orang yang melihat atau merasakan. Sebuah lukisan dapat dinilai indah oleh seseorang, tetapi dapat dinilai buruk oleh orang lain.
+    - Nilai etika/moral (baik-buruknya kelakuan manusia): Moral selalu berhubungan dengan nilai meskipun tidak semua nilai adalah nilai moral.
+- Jenis nilai menurut Notonegoro:
+    - Nilai material: Segala sesuatu yang berguna bagi kehidupan jasmani manusia.
+    - Nilai vital: Segala sesuatu yang berguna bagi manusia agar dapat beraktivitas
+    - Nilai kerohanian: Segala sesuatu yang berguna bagi rohani manusia, meliputi:
+        - Nilai kebenaran: Bersumber pada akal (rasio, budi, cipta) manusia
+        - Nilai keindahan atau estetis: Bersumber pada perasaan/emosi manusia
+        - Nilai kebaikan/moral: Bersumber pada kehendak manusia
+- Norma: **Sesuatu yang bertumbuh dan terpelihara dalam masyarakat; Aturan yang disepakati dan berlaku dalam lingkungan masyarakat tertentu**. Terbagi menjadi dua:
+    - Norma tertulis: **Jikalau dilanggar, akan dikenakan sanksi**.
+    - Norma tidak tertulis: **Jikalau dilanggar, akan dikucilkan masyarakat**.
+- Manfaat norma:
+    - Mengatur tingkah laku manusia dalam masyarakat
+    - Sebagai panduan dan pengendali tingkah laku masyarakat
+- Jenis norma:
+    - Agama: Norma yang berdasarkan suatu ajaran agama. Bersifat mutlak.
+    - Kesusilaan: Terdapat dalam hati nurani manusia, mencakup perbuatan, perilaku, atau tindakan yang mengutamakan penghargaan terhadap manusia sebagai pribadi. (Contoh: Menghormati orang lain, Tidak melecehkan)
+    - Kesopanan: Berpangkal pada aturan tingkah laku yang berlaku dalam masyarakat (Contoh: Cara berpakaian)
+    - Kebiasaan (*habit*): Merupakan hasil perbuatan yang dilakukan berulang2 dalam bentuk yang sama sehingga menjadi kebiasaan, Orang yang tidak melakukannya tidak akan mendapatkan sanksi, tetapi dipandang aneh oleh masyarakat setempat. (Contoh: Syukuran rumah baru)
+    - Hukum: Himpunan petunjuk hidup atau perintah dan larangan yang mengatur tata tertib dalam suatu masyarakat (negara). Sanksi norma hukum bersifat mengikat dan memaksa. (Contoh: Rambu lalu lintas)
+- Nilai Kristiani yang terdapat dalam hati nurani adalah:
+    - Kebenaran (*truth*): Berdasar kepada Alkitab. Terletak integritas dan kejujuran.
+    - Kesalehan (*righteousness*): Berbicara tentang hubungan manusia dengan Allah dan cara hidup sederhana. 
+    - Kekudusan (*holiness*): Syarat dapat melihat Allah, dipisahkan dari dunia sebagai garam dan terang; mencakup pikiranm perkataan, dan perbuatan.
+    - Kesetiaan (*faithfulness*): Didasarkan pada kesetiaan Allah yang ditunjukan dengan kesetiaan kepada pasangan, gereja lokal, dan ajaran Alkitab.
+    - Keutamaan (*excellency*): Semangan memberikan yang terbaik pada Tuhan dan sesala yang diilhami oleh Allah sendiri.
+    - Kasih (*love*): Ciri kehidupan umat kristiani. Kasih *agape* yang dinyatakan dengan kesediaan meneruima orang lain, mengampuni, dan berbagi hidup dengan mereka yang membutuhkan.
+- Buah Roh: 
+    - Kasih (*agape*)
+    - Sukacita (*chara*)
+    - Damai Sejahtera (*eirene*)
+    - Kesabaran (*makrothumia*)
+    - Kemurahan (*chrestotes*)
+    - Kebaikan (*agathosune*)
+    - Kesetiaan (*pistis*)
+    - Kelemahlembutan (*prautes*)
+    - Pengendalian diri (*ekateria*)
+- Kasih
+    - Dalam bahasa Ibrani: *ahav*, Yunani: *agape*
+    - Merupakan dorongan yang dirasakan oleh dua orang berbeda jenis kelamin yang bukan merupakan dorongan seksual; Merupakan kekuatan dari dalam yang mendorong seseorang melakukan tindakan yang mendatangkan kegembiraan dalam hatinya, sehingga bersedia berkorban demi kebaikan orang yang dikasihi; Merupakan kekuatan yang tulus.
+
+**AYAT PENTING**
+- Matius 23:37-40 : **Jawab Yesus kepadanya: "Kasihilah Tuhan Allahmu, dengan segenap hatimu dan segenap jiwamu dan dengan segenap akal budimu. Itulah hukum yang terutama dan yang pertama. Dan hkum yang kedua, yang sama dengan itu, ialah: Kasihilah sesamamu manusia seperti dirimu sendiri**.
+- Yakobus 2:17 : **Iman tanpa perbuatan adalah mati**
+- Matius 5:37 : **Ada keselarasan antara perkataan dan tindakan**
+- Ayub 29:4 : **Ayub hidup saleh, bergaul dengan Allah**
+- 
