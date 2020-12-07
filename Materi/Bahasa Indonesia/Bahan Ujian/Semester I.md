@@ -11,9 +11,15 @@
 6. Hikayat
 7. Nilai2 Hikayat
 8. Struktur Teks Laporan Hasil Observasi
-9. Langkah2 Meringkas Teks Hasil Observasi
-10. Apa yang dimaksud dengan menyunting
-11. Tajuk rencana
+    1. Pendahuluan
+    2. Isi (Deskripsi Bagian dan Deskripsi Manfaat)
+    3. Penutup 
+9.  Langkah2 Meringkas Teks Hasil Observasi
+    1. Membaca Teks
+    2. Mencatat Gagasan
+    3. Menyatukan Gagasan
+10. Menyunting: Proses memperbaiki tulisan, naskah dari kesalahan ejaan, tanda baca, diksi, keefektifan kalimat, keterpaduan paragraf.
+11. Tajuk rencana/Editorial: **Artikel pokok atau rubrik dalam surat kabar yang merupakan pandangan redaksi terhadap peristiwa yang sedang menjadi pembicaraan pada saat surat kabar itu diterbitkan.**
 12. Pengertian dan struktur Anekdot
 13. Eksposisi Halaman 40
 14. Eksposisi Pribadi, Klasifikasi

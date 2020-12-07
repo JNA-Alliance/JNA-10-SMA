@@ -2,15 +2,15 @@
 
 **SEJARAH**
 - Kerajaan Mataram Kuno yang terpecah dapat disatukan kembali pada masa pemerintahan **Rakai Pikatan**
-- Aswawarman disebut sebagai wangsakarta dari Kerajaan Kutai karena  
+- Aswawarman disebut sebagai wangsakarta dari Kerajaan Kutai karena: **karena aswawarman adalah pendiri kerajaan kutai dan pembentuk silsilah keluarga atau dinasti kerajaan kutai.**
 - Berikut merupakan wujud pengaruh agama dan kebudayaan Hindu–Buddha bagi masyarakat Indonesia, kecuali ….
     a. berkembangnya teknologi pembuatan candi
     b. dikenalnya sistem kasta pada masyarakat Hindu
     c. mulai dikenalnya konsep raja dan kerajaan
     **d. dikenalnya sistem kasta pada masyarakat Buddha**
-- Salah satu bagian dari kitab Weda yang berisi syair puji-pujian kepada dewa, yaitu **samaweda**
+- Salah satu bagian dari kitab Weda yang berisi syair puji-pujian kepada dewa, yaitu **Regweda**
 - Akulturasi **Penggabungan 2 budaya tanpa menghilangkan adat**
-- Kebudayaan Hindu merupakan perpaduan dua kebudayaan, yaitu
+- Kebudayaan Hindu merupakan perpaduan dua kebudayaan, yaitu **Dravida dan Arya**
 - Fosil Meganthropus Palaeojavanicus ditemukan oleh **von Koenigswald**
 - Majapahit mencapai puncak kejayaan pada masa pemerintahan raja **Hayam Wuruk**
 - **Raden Wijaya** pendiri kerajaan Majapahit
@@ -24,6 +24,14 @@
 - Api pertama kali ditemukan pada masa **Mesolitikum**
 - Pendukung kebudayaan Pacitan adalah jenis manusia purba **Pithecanthropus erectus**
 - Nomaden **Hidup berpindah2**
+- Kitab Pararaton berisi **sejarah singkat lahirnya raja Majapahit**
+- Kitab Negarakertagama berisi **puisi Jawa kuno yang ditulis pada masa keemasan Majapahit**
+- Raden Wijaya -> Jayawijaya -> Gayati Bhre Kahuripan (Tunggadewi) -> Hayam Wuruk (Kerajaan Majapahit)
+- Pembagian Kitab Suci Weda
+    - Rigweda: **Berisi tentang ajaran agama hindu.**
+    - Samaweda: **Berisi nyanyian wajib ketika upacara keagamaan.**
+    - Yajuweda: **Berisi doa doa yg dibacakan saat upacara agama.**
+    - Atharwaweda: **Beriisi doa doa untuk meyembuhkan penyakit dan memerangi raksasa.**
 - CONTOH HASIL KEBUDAYAAN ZAMAN BATU DAN LOGAM
     - ZAMAN PALEOLITIKUM
         - KAPAK PERIMBAS
@@ -69,27 +77,5 @@
 - Kjokkenmoddinger: **Tumpukan sampah dapur berupa kulit kerang**
 - Sumatralith: **kapak sumatera digunakan pada masa bercocok tanam,biasanya digunakan untuk menghaluskan biji-bijian,memecah biji-bijian yang keras,atau menghaluskan biji-bijian untuk membuat cat merah.**
 - Meganthropus palaeojavanicus
-- Mpu Tantular
-- Mpu Sedah
-- Mpu Prapanca
-- Mpu Panuluh
-- Kertanegara
-- Raden Wijaya
-- Jayawardhana
-- Hayam Wuruk
-- dolmen
-- punden berundak
-- menhir
-- waruga
-- Ter Haar
-- von Koenigswald: Homo erectus
-- Eugene Dubois: Penemu Pithecanthropus erectus
-- von Reitschotten
-- Harappa dan Mohenjo Daro
-- Dravida dan Harappa
-- Arya dan Mohenjo Daro
-- Harappa dan AryaDravida dan Arya
-- regweda
-- samaweda
-- yajurweda
-- atharwaweda
+- Mpu Tantular: **Penulis kitab Arjunawijaya dan Sutasoma**
+- Mpu Prapanca: **Penulis kitab Negarakertagama**
