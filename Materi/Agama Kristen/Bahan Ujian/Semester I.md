@@ -48,10 +48,14 @@
 - Kasih
     - Dalam bahasa Ibrani: *ahav*, Yunani: *agape*
     - Merupakan dorongan yang dirasakan oleh dua orang berbeda jenis kelamin yang bukan merupakan dorongan seksual; Merupakan kekuatan dari dalam yang mendorong seseorang melakukan tindakan yang mendatangkan kegembiraan dalam hatinya, sehingga bersedia berkorban demi kebaikan orang yang dikasihi; Merupakan kekuatan yang tulus.
+- Alasan orang Kristen mengasihi orang lain
+    - Meneladani kasih Allah
+    - Orang lain adalah juga orang yang untuknya Kristus telah mati
+    - Mencerminkan Kristus dalam dirinya
 
 **AYAT PENTING**
-- Matius 23:37-40 : **Jawab Yesus kepadanya: "Kasihilah Tuhan Allahmu, dengan segenap hatimu dan segenap jiwamu dan dengan segenap akal budimu. Itulah hukum yang terutama dan yang pertama. Dan hkum yang kedua, yang sama dengan itu, ialah: Kasihilah sesamamu manusia seperti dirimu sendiri**.
+- Matius 23:37-40 : **Jawab Yesus kepadanya: "Kasihilah Tuhan Allahmu, dengan segenap hatimu dan segenap jiwamu dan dengan segenap akal budimu. Itulah hukum yang terutama dan yang pertama. Dan hkum yang kedua, yang sama dengan itu, ialah: Kasihilah sesamamu manusia seperti dirimu sendiri**
 - Yakobus 2:17 : **Iman tanpa perbuatan adalah mati**
 - Matius 5:37 : **Ada keselarasan antara perkataan dan tindakan**
 - Ayub 29:4 : **Ayub hidup saleh, bergaul dengan Allah**
-- 
+- Yohanes 3:16 : **Karena begitu besar kasih Allah sehingga Ia menganuriakan Anak-Nya yang tunggal, supaya setiap orang yang percaya kepada-Nya tidak binasa, melainkan memperoleh hidup yang kekal**

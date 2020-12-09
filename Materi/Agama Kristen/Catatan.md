@@ -14,7 +14,7 @@
   - Bertambahnya informasi sehingga ia mampu berpikir reflektif
   - Banyaknya pengalaman dan latihan memecahkan masalah sehingga ia bisa berpikir porposional
   - Adanya kebebasan berpikir
-- Coro-ciri dewasa dalam aspek intelektual
+- Ciri-ciri dewasa dalam aspek intelektual
   - Dipimpin oleh akal sehat
   - Dapat bekerja sampai selesai/tekun
   - Hidup dalam dunia realitas
@@ -24,7 +24,7 @@
   - Memiliki inisiatis
 - Cara berpikir
   - **Positif**: Selalu mencari sisi baiknya dalam segala hal. Mencari hikmat dari kegagalan, berharap hal lebih baik.
-  - **Proaktif**: Menggunakan pertimbangan terlebih dahulu sebelum memberikan respoons terhadap sesuatu. Jemput Bola. Manusia mempunyai kemampuan mempertimbangkan sesuatu karena Manusia diciptakan Tuhan dengan memiliki kehendak bebas sehingga mempunyai kemauan yang murni tanpa dipengaruhi orang lain. Memiliki hati nurani, membedakan mana yang baik dan yang buruk bagi dirinya, dan memiliki daya imajinasi ytang tinggi.
+  - **Proaktif**: Menggunakan pertimbangan terlebih dahulu sebelum memberikan respons terhadap sesuatu. Jemput Bola. Manusia mempunyai kemampuan mempertimbangkan sesuatu karena Manusia diciptakan Tuhan dengan memiliki kehendak bebas sehingga mempunyai kemauan yang murni tanpa dipengaruhi orang lain. Memiliki hati nurani, membedakan mana yang baik dan yang buruk bagi dirinya, dan memiliki daya imajinasi yang tinggi.
   - **Kritis**: Proses mental untuk menganalisis atau mengevaluasi informasi yang dapat diperoleh dari hasil pengamatan, pengalaman, akal sehat, atau komunikasi.
   - **Komprehensif**: Berpikir secara menyeluruh dengan cara mempertimbangkan berbagai aspek dan dari berbagai sudut pandang.
 
