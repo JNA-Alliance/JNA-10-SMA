@@ -29,9 +29,9 @@ Paling banyak mengenai Wilayah dan Sistem Pertahanan Negara.
 
 **SISHANKAMRATA**
 - Ciri-ciri semesta:
-    - Kerakyatan
-    - Kewilayahan
-    - Kesemestaan
+    - Kerakyatan: **Orientasi pertahanan dan kemaanan negara diabdikan oleh dan untuk kepentingan seluruh rakyat**
+    - Kewilayahan: **Dilaksanakan secara menyebar di NKRI**
+    - Kesemestaan: **Seluruh sumber daya nasional didayagunakan bagi pertahanan**
 - Komponen semesta:
     - Wilayah
     - Seluruh Rakyat Indonesia
@@ -67,8 +67,9 @@ Paling banyak mengenai Wilayah dan Sistem Pertahanan Negara.
 
 # Pasal Penting
 - UUD Pasal 26 ayat 1: **Definisi warga negara**
-- UUD Pasal 27 ayat 3: **Setiap warga negara berhak dan wajib ikut serta dalam upaya pembelaan negara.**
+- UUD Pasal 27 ayat 3: **Setiap warga negara berhak dan wajib ikut serta dalam upaya _pembelaan_ negara.**
 - UUD Pasal 25A: **Indonesia adalah negara kepulauan**
-- UUD Pasal 24D ayat 24: **“Setiap orang berhak atas status kewarganegaraan**
+- UUD Pasal 24D ayat 24: **Setiap orang berhak atas status kewarganegaraan**
+- UUD Pasal 30 ayat 1: **Tiap warga negara berhak dan wajib ikut serta dalam usaha _pertahanan dan keamanan_ negara**
 - UU Nomor 12 Tahun 2006: **Kewarganegaraan Repulik Indonesia**
     - Pasal 20: **Naturalisasi Istimewa**
