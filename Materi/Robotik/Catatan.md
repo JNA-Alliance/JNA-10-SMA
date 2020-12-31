@@ -42,5 +42,3 @@
 - Potensiometer pada sensor Api adalah yang warna Biru
 - Pin D0 dihubungkan ke pin digital
 - Pin A0 dihubungkan ke pin Analog, menghasilkan nilai kisaran 0-1024
-
-****

@@ -16,18 +16,18 @@
     - Senyawa: Zat yang terbentuk dari gabungan beberapa unsur dengan perbandingan tertentu (CO₂, H₂0, dan CaCO₃)
     - Campuran: Gabungan antara dua zat atau lebih dimana sifat penusunannya tidak berubah (Larutan gula, susu, anjir kanju)
   - **Struktur Materi**
-    - Menjelaskan tentang ikatan yang terjadi antara atom sampai terbentuk molekul unsur, molekul senyawa, atau ion. Contoh: 
+    - Menjelaskan tentang ikatan yang terjadi antara atom sampai terbentuk molekul unsur, molekul senyawa, atau ion. Contoh:
       - Molekul unsur: 0₂, N₂, P₄
       - Molekul senyawa: CO₂, H₂O, CaCO₃
       - Ion: Na⁺, CI⁻, Ca²⁺
-  - **Sifat Materi**  
+  - **Sifat Materi**
     - Lebih mengarah ke sifat-sifat kimia suatu zat (Mudah terbakar, korosi, bereaksi dengan zat lain)
   - **Perubahan Materi**
     - Perubahan Fisika: Tidak menghasilkan zat baru (Lilin yang dibakar, es mencair)
     - Perubahan Kimia: Menghasilkan zat baru akibat reaksi kimia (Besi berkarat, kayu dibakar menjadi abu nasi basi)
 - Prinsip dasar hakikat ilmu kimia: Prinsip dasar yang menjadi acuan perkemabangan ilmu kimia adalah adanya perubahan bentuk atau susunan partikel menjadi bentuk lain denghan sifat yang berbeda. Contoh Zat A direaksikan dengan Zat B , menghasilkan zat C, dimana sifatnya berbeda dengan Zat A dan B.
 - Ruang Lingkup Kimia
-  - Meliputi susunan, struktur, sifat, serta pertumbuhan materi dan yang menyertainya. Secara umum, kimia dibedakan menjadi 2: 
+  - Meliputi susunan, struktur, sifat, serta pertumbuhan materi dan yang menyertainya. Secara umum, kimia dibedakan menjadi 2:
   - Kimia Deskriptif: Ilmu kimia yang didapatkan melalui pengamatan sifat zat.
   - Kimia Teoritis: Ilmu kimia yang membahas tentang materi. Contoh Kimia Teoritis:
     - Kimia Fisika: Ilmu yang mempelajari hubungan antara Kimia dan Fisika. Bahasan dalam kimia Fisika adalah zat secara makriskopis atomik maupun subatomik ditinjau berdasarkan hukum-hukum dalam Fisika.
