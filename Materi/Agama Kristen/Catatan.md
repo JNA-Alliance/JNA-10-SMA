@@ -49,3 +49,10 @@
 - Iman itu tidak pernah selesai
 - Iman mendatangkan hikmat dan iman adalah dasar.
 - Iman menyelamatkan
+
+- **PENTAKOSTA**
+  - Yahudi: Hari ke-50 setelah Paskah, Hari turunnya Mannah
+  - Kristen: Hari ke-50 setelah Paskah, Hari turunnya Roh Kudus
+- **PASKAH**
+  - Yahudi: Lepas dari perbudakan di Mesir
+  - Paskah: Hari kebangkitan 
