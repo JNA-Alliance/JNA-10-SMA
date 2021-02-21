@@ -1,0 +1,133 @@
+# Bahan Ujian Formatif I Semester II - Sejarah
+
+- **TEORI MASUKNYA ISLAM**
+    - **TEORI MEKKAH** 
+        - Islam dibawa oleh pedagang dari Mekkah pada abad 7M.
+        - Bukti:
+            - Terdapat Perkampungan Islam di Barus, Sumatera di tahun 674M
+            - Ditemukannya makan "Fatimah binti Maimun" di Gresik
+            - Adanya pemakaman Islam di wilayah Majapahit di Trowulan
+        - Pendukung:
+            - Buya Hamka
+            - J. C. Van Leur
+    - **TEORI PERSIA**
+        - Islam dibawa oleh pedagang dari Iran pada abad 11M.
+        - Bukti:
+            - Adanya upacara Tabuik (Peringatan meninggalnya Hussain bin Ali, cucu Nabi Muhammad SAW yang diperingati setiap tanggal 10 Muharram di daerah Bengkulu, Sumatera Barat)
+            - Adanya kesamaan antara ajaran sufi Syesk Siti Jenar, Ulama sufi asal Jepara, dengan sufi Iran beraliran Al-Hallaj
+        - Didukung oleh:
+            - Hoesin Djajadiningrat
+    - **TEORI GUJARAT**
+        - Islam dibawa oleh pedagang dari Gujarat, India pada 13M.
+        - Bukti:
+            - Adanya Batu nisan Sultan Malik Al-Saleh (Sultan Kerajaan Samudra Pasai) mirip dengan batu nisan yang ada di Gujarat
+            - Tulisan Marco Polo mengenai adanya kerajaan Islam di Perlak, Aceh Timur
+        - Didukung Oleh:
+            - Snouck Hurgronje
+            - W.F. Suttherheim
+            - B.H.M. Vlekke
+- **WALI SONGO**
+    - Adalah 9 Wali yang Giat Menyebarkan Agama Islam dengan Saluran Dakwah
+    - Nama Wali:
+        - Sunan Gresik
+        - Sunan Gunung Jati
+        - Sunan Ampel
+        - Sunan Giri
+        - Sunan Bonang
+        - Sunan Kudus
+        - Sunan Kalijaga
+        - Sunan Muria
+        - Sunan Drajat
+    - Para wali menyebarkan agama Islam melalui jalur kesenian/budaya lokal (Wayang Kulit)
+- **TRIVIA**
+    - Pedagang Islam tinggal didaerah pesisir yang disebut **Pekojan**
+    - Menyebarkan agama Islam lewat pendidikan **Ulama dan Pendakwah**
+    - Fasilitas pembelajaran agama Islam disebut **Pesantren**
+    - Murid Pesantren disebut **Santri**
+    - Ajaran ketuhanan yang bercampur hal-hal magis disebut **Tassawuf**
+- SIMPLIFIED **KESULTANAN SAMUDERA PASAI/DARUSSALAM**
+    - Lokasi: Pantai Utara Sumatra (Aceh) dekat selat Malaka
+    - Bukti:
+        - Berita Marco Polo: Penduduk sekitar Perlak beragama Islam
+        - BErikuta Ibnu Batuta:
+            - 1326, Masyarakat di kerajaan ini sebagian besar beragama Islam
+            - 1345, Sebagai sebuah pelabuhan yang ramai disinggahi kapal dagang dari Tiongkok dan India
+    - Raja:
+        - Dinasti Meurah Khair
+            - Maharaja Mahmud Syah (1042-1078)
+            - Maharaja Mansyur Syah (1078-1133)
+            - Teuku Samudra Nazimuddin Al-Kamil <-- Peletak Dasar Pemerintahan Islam
+        - Dinasti Meurah Silu:
+            - Sultan Malik Al-Saleh (1267-1292)
+            - Sultan Muhammad Malik Az-Zahir (1292-1326)
+                - Berhubungan dengan luar negeri
+                - Mulai mengenalkan uang Dirham
+            - Sultan Mahmud Malik Az-Zahir (1326-1346)
+                - Masa Keemasan
+                - Ibnu Batubah: Pasai Bermazhab Syaf
+            - Ahmad Malik Az-Zahir
+                - 1345 & 1350 terjadi serangan dari Majapahit
+            - Zainal Abidin Malik Az-Zahir (1383-1405)
+- SIMPLIFIED **KESULTANAN ACEH**
+    - Lokasi: Aceh Rayeuk (sekarang Aceh Besar)
+    - Bukti:
+        - Kitab **Bustanussalatin** karya Naruddin ar-Raniri, 1637 (Judul: "Sisilah Raja-Raja Aceh")
+        - Batu nisan Ali Mughayat Syah (1530)
+    - Sultan
+        - Ali Mughayat Syah (1507-1530) <-- Sudah ada sejak 1496. Masih berada dibawah kekuasaan Samudera Pasai.
+        - Sultan Iskandar Muda (1607-1636, Sultan ke 14)
+            - Mencapai masa kejayaan
+            - Nama aslinya: **Pangeran Perkasa Alam**
+            - Wilayah mencapai Semenanjung Melayu
+            - Kitab "Adat Makuta Alam" (undang-undang) ditulis dengan huruf/dalam bahasa Arab. Disusun karena adanya konflik antara Golongan Bangsawan (Teuku) dan Golongan Ulama (Tengku).
+            - Menjalin hubungan diplomatik dengan negara Eropa
+            - Komoditas utama: Rempah2 (Lada), Timah, Emas, Perak, Beras, Tekstil, Porselain, dan Minyak wangi.
+        - Iskandar Tsani (1636-1641)
+            - Pada masa ini, Aceh mengalami kemunduran
+            - Lahir sastrawan besar bernama Nurrudin Ar-Raniri (yang menulis kitab Bustanussalatin)
+            - Faktor kemunduran: adanya pengaruh Belanda di Aceh
+        - Sultana Safi Al-Din Taj Al-Alam (1641-1675)
+        - Sri Ratu Naquatuddin Nurul Alam (1675-1678)
+        - Sri Ratu Zaquatuddin Inayat Syah (1678-1688)
+        - Sri Ratu Zainatuddin Kamalat Syah (1688-1699)
+    - Keruntuhan
+        - Sultan setelah Iskandar Tasni yang kurang kompeten
+        - Semakin kuatnya kekuasaan Belanda
+        - Perebutan kekuasaan antara Teuku (bangsawan) dengan Tengku (ulama)
+        - Perbedaan aliran ulama
+        - Belanda memanfaatkan keadaan untuk melakukan pemecah belahan dengan membakar masjid dan madrasah.
+    - Note:
+        - Kesultanan Aceh mengambil alih kekuasaan pada tahun 1524 dari Kesultanan Samudera Pasai
+
+# Long Story
+- **KESULTANAN SAMUDERA PASAI/DARUSSALAM**
+    - Merupakan kerajaan pertama di Nusantara yang menganut agama Islam
+    - Terletak di pantai Utara Sumatera, didekat Perlak Malaysia
+    - Catatan Ibnu Batutah mengenai Samudera Pasai (Judul Catatan: Tuhfat Al-Nazha):
+        - Tahun 1326, mustafir dari Maroko yang bernama Ibnu Batutah mengatakan bahwa masyarakat yang dagang di Kesultanan Samudra Pasai sebagian besar sudah beragama Islam.
+        - Merupakan Pusat Studi Islam di Asia Tenggara.
+    - Nama Awal: **KESULTANAN PASAI**
+    - Dikuasai oleh Dinasti Merah Khair.
+    - Raja Kesultanan Pasai:
+        - Maharaja Mahmud Syah (1042-1078)
+        - Maharaja Mansyur Syah (1078-1133)
+        - Teuku Samudra (Nazzimudin Al-Kamil) (1133-?)
+    - Terjadi perebutan takhta saat setelah meninggalnya Teuku Samudra karena Ia tidak memiliki keturunan.
+    - Berubah nama menjadi: **KESULTANAN SAMUDRERA PASAI**
+    - Didirikan oleh Meurah Silu (Sultan Malik Al-Saleh, 1267-1292)
+    - Dikuasai oleh Dinasti Meurah Silu
+    - Sultan Malik Al-Saleh menikah dengan **Putri Ganggang** dari Kesultanan Perlak
+    - Anak Sultan Malik Al-Saleh dan Putri Ganggang bernama **Muhammad Malik Az-Zahir**
+    - Sultan Malik Al-Saleh memerintahkan untuk membuka pelabuhan saat berkuasa karena posisinya yang strategis
+    - Muhammad Malik Az-Zahir menggantikan Al-Saleh (1292-1326)
+    - Selama pemerintahan Az-Zahir, Samudera Pasai memiliki hubungan dagang dengan: Tiongkok, Gujarat, dan Benggala.
+    - Komoditas Utama: Lada, Kapur Barus, dan Emas
+    - Alat tukar uang dari Emas bernama Dirham
+    - Hal Istimewa Sistem Barter: BEBAS PAJAK (Lada dan Beras)
+    - Muhammad Malik Al-Zahir digantikan dengan anaknya **Mahmud Malik Al-Zahir** (1326-1345)
+    - Puncak Kejayaan/Masa Keemasaan saat Mahmud Malik Al-Zahir memerintah. Karena Perekonomian yang bagus membawa dampak yang bagus pada kehidupan sosial. Termasuk hubungan Sultan-Masyarakat.
+    - Mahmud Malik Al-Zahir digantukan oleh anaknya **Ahmad Malik Al-Zahir**.
+    - Menurut hikayat Raja-Raja Pasai, di tahun 1345, kerajaan Samudera Pasai diserang Kerjaan Majapahit selama 3 hari dan 3 malam.
+    - Kesultanan Samudera Pasai kalah dan hancur. Bahkan sultan Ahmad Malik Al-Zahir melarikan diri.
+    - Lalu Kesultanan Samudera Pasai bangkit kembali dibawah kekuasaan **Zain Al-Abidin Malik Az-Zahir** (1383-1405)
+    - **Puncak Keruntuhan**: Perang Saudara + Ketika Portugis menaklukkan kesultanan di tahun 1521.
