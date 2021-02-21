@@ -98,7 +98,143 @@
         - Belanda memanfaatkan keadaan untuk melakukan pemecah belahan dengan membakar masjid dan madrasah.
     - Note:
         - Kesultanan Aceh mengambil alih kekuasaan pada tahun 1524 dari Kesultanan Samudera Pasai
-
+- SIMPLIFIED **KESULTANAN DEMAK** (1500-1568)
+    - Lokasi: Demak, Jawa Tengah
+    - Bukti:
+        - Babad Tanah Jawi
+        - Serat Kandha
+    - Sultan:
+        - Raden Patah (1500-1518) [1]
+            - Pati Unus/Raden Surya/Pangeran Sabrang Lor (1518-1521) [2]
+            - Raden Trenggono (1521-1546) [3]
+                - Ratu Mas Cempaka + Jaka Tingkir (Sultan Hadiwijaya) (1568-1582) [7]
+                    - Pangeran Benowo
+                - Sunan Prawoto [5]
+                    - Arya Pangiri [8]
+            - Raden Kikin/Sedo Lepen [4]
+                - Aryo Penangsang [6]
+    - Cerita:
+        - Pati Unus vs Portugis => Pati Unus DEAD
+        - Raden Patah vs Portugis => Raden Patah DEAD
+        - Raden Trenggono menggantikan Raden Patah
+        - Raden Trenggono vs Kerajaan Hindu Blambangan => Raden Trenggono DEAD
+        - Sedo Lepen menggantikan Raden Tenggono
+        - Sedo Lepen dibunuh oleh Sunan Prawoto
+        - Sunan Prawoto dibunuh oleh Aryo Penangsang
+        - Aryo Penangsang dibunuh oleh Jaka Tingkir
+        - Pangeran Benowo perang dengan Arya Pargiri
+        - Arya Pargiri menggantikan Jaka Tingkir
+    - Keruntuhan
+        - Adanya perang saudara
+        - Jaka Tingkir memindahkan ibukota ke Pajang
+        - Tanah Perdika (Mataram) diberikan kepada Ki Gede Pemanahan sebagai tanda terima kasih.
+        - Ki Panjawi dijadikan adipati di Pati.
+        - Pangeran Benowo dijadikan sultan di Jipang
+        - Jipang diserahkan kepada Sutawijaya (Panembahan Senopati) sebagai terima kasih
+    - Note:
+        - Kesultanan Islam Terbesar di Jawa
+        - Kesultanan yang rebutan Takhta
+- SIMPLIFIED **KESULTANAN MATARAM** (1586-1755)
+    - Lokasi: Kotagede, Yogyakarta
+    - Bukti:
+        - Tidak diragukan lagi, s
+    - Pemerintahan
+        - Penembahan Senopati/Sutawijaya (1586-1601)
+            - Peletak dasar kesultanan Mataram
+            - Memindahkan pusat pemerintahan dari Pajang ke daerah Mataram setelah wafatnya Benowo
+        - Panembahan Krapyak/Mas Jolang (1601-1613, Anak Sutawijaya)
+            - Banyak pemberontakan, kurang mampu/tangguh seperti ayahnya
+        - Sultan Agung/Mas Rangsang (1613-1645)
+            - Mencapai puncak kejayaan
+            - Tahun 1615, melakukan ekspansi untuk menaklukkan Jawa
+            - Tahun 1628 dan 1629 menyerbu VOC
+                - 1628: Kalah senjata
+                - 1629: Banyak lumbu pangan yang dibakar VOC, menyebabkan kelaparan
+            - Menciptakan sistem tata kota
+            - Hampir semua Jawa dibawah kekuasaan kecuali: Banten, Cirebon, Blambangan, dan Batavia
+            - Pembagian kekuasaan:
+                - Kutanegara: Pusat Keraton
+                - Negara Agung: Sekitar Kutanegara
+                - Macanegara: luat Negara Agung
+                - Pesisir: daerah Pesisisr
+            - Ahli politik, sastra, filsafat jawa & agama
+            - Karya Sastra: Sastra Gending, Hukum Islam: Surya Alam
+            - Kalender Jawa: Akulturasi kebudayaan Jawa, Hindu-Buddha, dan Islam
+        - Amangkurat I/Sunan Tegalwangi (1645-1677)
+        - Amangkurat II/Adipati Anom (1677-1703)
+        - Amangkurat III/Sunan Mas (1703-1708)
+        - Pangkubuwana I/Sunan Puger (1708-1719)
+        - Amangkurat IV/Sunan Mangkunegaran (1719-1727)
+        - Pakubuwono II (1727-1749)
+            - Perjanjian GIYANTI
+            - MATARAM terbagi 2 (Kasunan Surakarta & Kasultanan Yogyakarta)
+    - Perjanjian
+        - GIYANTI: 13 Febuari 1755, Mataram terbagi menjadi 2, yaitu Kesultanan Ngayogyakarta dan Kasunan Surakarta
+        - SALATIGA: 1757, Mataram dibagi lagi menjadi: Kesultanan Yogyakarta, Kasunan Surakarta, dan Mangkunegaran
+        - Pada 1813, Kesultanan Yogyakarta dipecah menjadi dua: Kesultanan Yogyakarta dan Pakualaman.
+    - Keruntuhan
+        - Sepeninggalan Sultan Agung tidak ada yang cakap
+        - Perang Saudara
+        - Politik adu domba Belanda (devide at impera)
+- SIMPLIFIED **KESULTANAN BANTEN** (1526-1813)
+    - Lokasi: Wilayah barat pulau Jawa, Provinsi Banten
+    - Bukti:
+        - Cerita Parahyangan
+        - Berita Tiongkok, Shung Peng Hsiang Sung
+        - Berita Tome Pires: Salah satu dari beberapa rute pelayaran mereka
+    - Kesultanan
+        - Maulana Hasanuddin (1552-1570)
+        - Penambahan Yusuf/Maulana Yusuf (1570-1580)
+            - Menaklukkan Pajajaran
+        - Maulana Muhammad (1580-1596)
+            - Menyerang Palembang, daerah penghasil Lada. Gagal dan tewas.
+            - Datangnya Cornelis De Houtman tahun 1596 (VoC)
+        - Pangeran Ratu (1596-1651)
+            - Diplomasi Luar Negeri (seperti Raja Inggris James I, dan Charles I)
+        - Sultan Ageng Tirtayasa
+            - Masa kejayaan
+            - Melakukan ekspansi
+            - Mengusir Belanda. Gagal
+            - Menjadikan anaknya, Sultan Haji sebagai sultan muda pada 1671
+        - Sultan Haji (1671-1686)
+            - Cenderung membangun hubungan dengan VoC
+            - Sultan Ageng Tirayasa menyingkur dari Istana (ditangkap dan ditahan di banten)
+            - Lepasnya Lampung ke tangan VOC
+            - Harus mengganti kerugian perang sebesar 12.000 ringgit.
+    - Keruntuhan
+        - Konflik internal antara Sultan Ageng Tirtayasa dengan Sultan Haji (anaknya)
+        - Pengaruh politik Devide et Impera Belanda
+    - Note:
+        - Melepaskan diri dari Kesultanan Demak
+        - Ibukota: Surosowan
+        - Dikenal juga dengan nama:
+            - Wahanten Girang
+            - Carita Parahyangan
+            - Medanggili
+            - Tambo Tulangbawang
+            - Primbon Bayah
+- SIMPLIFIED **KESULTANAN GOWA-TALLO (MAKASSAR)** (1528-1670an)
+    - Lokasi: Makassar, Sulawesi Selatan
+    - Bukti: 
+        - Catatan Tome Pires: Melukiskan kemampuan pelayaran dan perdagangan orang-orang Makassar
+    - Kesultanan
+        - Sultan Allaudin (<-- Nama setelah memeluk islam)/Daeng Manrabia (1591-1638)
+            - Memeluk Islam tahun 1605
+            - Datangnya 3 Datto: X X X
+        - Sultan Muhammad Said (1639-1653)  |<-- Mencapai Masa Kejayaan
+        - Sultan Hasanuddin (1653-1669)     |
+            - Perang Makassar
+            - Perang VOD mengenai monopoli rempah2 yang terjadi tahun 1666-1669
+            - Mendapatkan julukan **Ayam Jantan dari Timur**
+            - Perjanjuan **BONGAYA**
+                - VOD monopoli perdagangan di Makassar
+                - VOC mendirikan benteng Fort Rotterdam
+                - Makassar melepaskan daerah jajahannya
+                - Mengakui Aru Palaka sebagai raja Bone
+        - Mapasomba/Sultan Amir Hamzah
+            - Sikapnya jauh lebih keras dari Sultan Hasanuddin
+    - Keruntuhan
+        - Karena kerasnya sikap sultan Makassar dan tidak mau bekerja sama menjadi alasan Belanda mengerahkan pasukan secara besar-besaran. Pasukan Mapasomba berhasil dihancurkan dan Mapasomba sendiri tidak diketahui nasibnya.
 # Long Story
 - **KESULTANAN SAMUDERA PASAI/DARUSSALAM**
     - Merupakan kerajaan pertama di Nusantara yang menganut agama Islam
