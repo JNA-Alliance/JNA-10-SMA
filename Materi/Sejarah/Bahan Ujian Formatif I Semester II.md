@@ -5,7 +5,7 @@
         - Islam dibawa oleh pedagang dari Mekkah pada abad 7M.
         - Bukti:
             - Terdapat Perkampungan Islam di Barus, Sumatera di tahun 674M
-            - Ditemukannya makan "Fatimah binti Maimun" di Gresik
+            - Ditemukannya makam "Fatimah binti Maimun" di Gresik
             - Adanya pemakaman Islam di wilayah Majapahit di Trowulan
         - Pendukung:
             - Buya Hamka
@@ -49,7 +49,7 @@
     - Lokasi: Pantai Utara Sumatra (Aceh) dekat selat Malaka
     - Bukti:
         - Berita Marco Polo: Penduduk sekitar Perlak beragama Islam
-        - BErikuta Ibnu Batuta:
+        - Berita Ibnu Batuta:
             - 1326, Masyarakat di kerajaan ini sebagian besar beragama Islam
             - 1345, Sebagai sebuah pelabuhan yang ramai disinggahi kapal dagang dari Tiongkok dan India
     - Raja:
@@ -68,6 +68,7 @@
             - Ahmad Malik Az-Zahir
                 - 1345 & 1350 terjadi serangan dari Majapahit
             - Zainal Abidin Malik Az-Zahir (1383-1405)
+    - Keruntuhan: Perang Saudara + Ketika Portugis menaklukkan kesultanan di tahun 1521.
 - SIMPLIFIED **KESULTANAN ACEH**
     - Lokasi: Aceh Rayeuk (sekarang Aceh Besar)
     - Bukti:
@@ -122,8 +123,9 @@
         - Sedo Lepen dibunuh oleh Sunan Prawoto
         - Sunan Prawoto dibunuh oleh Aryo Penangsang
         - Aryo Penangsang dibunuh oleh Jaka Tingkir
-        - Pangeran Benowo perang dengan Arya Pargiri
         - Arya Pargiri menggantikan Jaka Tingkir
+        - Pangeran Benowo perang dengan Arya Pargiri
+        - Arya Pargiri berhasil diusir oleh Pangeran Benowo
     - Keruntuhan
         - Adanya perang saudara
         - Jaka Tingkir memindahkan ibukota ke Pajang
@@ -155,8 +157,8 @@
             - Pembagian kekuasaan:
                 - Kutanegara: Pusat Keraton
                 - Negara Agung: Sekitar Kutanegara
-                - Macanegara: luat Negara Agung
-                - Pesisir: daerah Pesisisr
+                - Macanegara: luar Negara Agung
+                - Pesisir: daerah Pesisir
             - Ahli politik, sastra, filsafat jawa & agama
             - Karya Sastra: Sastra Gending, Hukum Islam: Surya Alam
             - Kalender Jawa: Akulturasi kebudayaan Jawa, Hindu-Buddha, dan Islam
