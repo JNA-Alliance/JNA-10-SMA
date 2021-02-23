@@ -33,7 +33,7 @@
     5. Membimbing orang percaya
 
 1. Dalam kata Roma dan Galatia, Paulus berbicara tentang kemerdekaan dari dosa. Tak seorang pun manusia dapat memperoleh keselamatan kekal melalui Yesus. Untuk diselamatkan, manusia harus memiliki **iman kepada Yesus**
-2. Bahasa Yunani yang digunakan untuk menggambarkan pengudusan orang percaya oleh Roh Kudus adalah **hogiosmos**
+2. Bahasa Yunani yang digunakan untuk menggambarkan pengudusan orang percaya oleh Roh Kudus adalah **hagiosmos**
 3. Jalam pembuka bagi proses pengudusan terhadap orang Kristen dan jembatan yang menghubungkan sehingga ada persekutuan antara orang Kristen dan Allah serta olehnya manusia di benarkan adalah **Iman**
 4. Status baru yang dikerjakan oleh Roh Kudus, dimana seseorang berhak menjadi ahli waris adalah **pengangkatan**
 5. Kepada para penulis Alkitab, Roh Kudus bekerja memampukan mereka memahami keinginan Tuhan lalu menuliskannya. Roh Kudus memberi mereka **karunia** 
