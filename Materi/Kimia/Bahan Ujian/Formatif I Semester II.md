@@ -7,7 +7,7 @@
     3. Larutan dapat menghantarkan listrik [x]
     4. Lelehannya dapat menghantarkan listrik [x]
 3. Perbedaan antara ion Na+ dengan atom Na (Natrium) adalah **ion Na+ melepaskan 1 elektron, sedangkan atom Na itu netral**
-4. Es batu, Silikon, Perunggu, Batu Kapur. Yang manakah yang mengandung ikatan ion... **Batu Kapur, Silikon**
+4. Es batu, Silikon, Perunggu, Batu Kapur. Yang manakah yang mengandung ikatan ion... **Silikon**
 5. Unsur yang mengikat dua elektron untuk mendapatkan konfigurasi elektron yang stabil adalah...
     1. 11Na
     2. 14Si
@@ -48,7 +48,7 @@
     2. **NHO3 [x]**
     3. H2O [v]
     4. C2H4 [v]
-    5. **BeCl2 [x]**
+    5. BeCl2 [v]
 22. Senyawa berikut yang bersifat kovalen polar adalah...
     1. **H2O** 
     2. CH4 [x]
