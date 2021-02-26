@@ -93,13 +93,17 @@
         - Memiliki jaringan pembuluh
         - Ada yang kecil (2cm) dan besar (5m)
         - Habitat: Daratan, Air (mengapung)
+        - Termasuk golongan Cormophyta berspora.
+        - WSporoﬁt Iebih dominan daripada gametoﬁt.
+        - WAnteridium dewasa menghasilkan sel telur haploid
+        - WSpora berkembang menjadi protalium.
     - Tahapan Hidup
         - Sporofit: Menghasilkan Spora
             - Sering kita lihat
             - Ukurannya lebih besar dan hidup lebih lama
             - Daun yang berspora => **SPOROFIL**
             - Daun yang tidak bersopra => **TROPOFIL**
-            - Spora dihasilkan didalam bagian khusus daun bernama **SPORANGIUM** dan dapat berkumpul membentuk **SORUS** yang dapat dilihat langsung dengan mata.
+            - Spora dihasilkan didalam bagian khusus daun bernama **SPORANGIUM** dan dapat berkumpul membentuk **SORUS** (dilapisi oleh selaput indisium) yang dapat dilihat langsung dengan mata.
             - Pembelahan Meiosis
             - Paku dengan ukuran spora yang sama => **HOMOSPORA**
             - Paku dengan ukuran spora yang berbeda => **HETEROSPORA** (Spora Besar = **MAKROSPORA**, Spora Kecil = **MIKROSPORA**)
@@ -144,3 +148,41 @@
     - Terbagi berdasarkan bijinya:
         - Gymnospermae (Tumbuhan Biji Terbuka)
             - Kelompok tumbuhan berbiji yang bijinya tidak tertutup oleh daging buah
+            - Ciri Umum:
+                - Struktur perkembangan yang khas adalah biji yang dihasilkan oleh bunga
+                - Sperma menuju ke sel telur melalui tabung serbuk sari yang hanya terdapat pada tumbuhan biji
+                - Memiliki jaringan pembuluh
+                - Memiliki pigmen hijau (klorofil)
+            - Organ Reproduksi: **STROBILUS**
+                - Strobilus Jantan
+                    - Terdapat sel induk Mikrosporosit (berkembang menjadi Serbuk Sari)
+                - Strobilus Betina
+                    - Memiliki bagian sisik-sisik yang terdapat biji
+                    - Sisik akan terbuka saat biji matang
+                    - Strobilus akan jatuh saat matang
+                    - Terdapat sel Megaspora
+            - Klasifikasi Tumbuhan Biji Terbuka:
+                - Ginkgophyta
+                    - Ciri Umum:
+                        - Daun berbentuk mirip kipas dan tangkainya panjang
+                        - Daun berubah warna menjadi kuning saat musim gugur
+                        - Buahnya busuk
+                    - Contoh: Ginkgo biloba
+                - Gnetophyta
+                    - Ciri Umum
+                        - Bersifat **Dioecious** (berumah dua, setiap individu tumbuhan hanya memiliki satu oragan reproduksi)
+                        - Tumbuh di daerah kering/gurun
+                    - Contoh: Melinjo, Ephedra, Welwitschia
+                - Cycadophyta
+                    - Ciri Umum
+                        - Tubuh mirip tumbuhan palem
+                        - Daunnya banyak dan menumpuk di ujung
+                        - Bersifat Dioecious
+                        - Strobilus Jantan berbentuk mirip peluru, betina seperti keris
+                    - Contoh: Cycas rumphii
+                - Coniferophyta / Pinophyta
+                    - Ciri Umum
+                        - Daun selalu hijau sepanjang tahun (Evergreen)
+                        - Daun berbentuk mirip jarum (Kecil2, panjang2)
+                        - Banyak ditemukan di daerah cuaca dingin
+                    - Contoh: Ara douglas (Pseuidotsuga menziesii), Larch eropa (Larix decidua), Pinus nerkusii
