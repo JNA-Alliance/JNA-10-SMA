@@ -45,6 +45,12 @@
     - Fasilitas pembelajaran agama Islam disebut **Pesantren**
     - Murid Pesantren disebut **Santri**
     - Ajaran ketuhanan yang bercampur hal-hal magis disebut **Tassawuf**
+    - Salah satu peninggalan dari kerajaan Demak, yaitu **SAKA TATAL**
+    - Pulau berikut ini yang mendapat julukan spicy Island adalah **MALUKU**
+    - Malaka jatuh ke tangan portugis pada tahun **1511**
+    - Ekspedisi Demak berhasil menguasai Sunda Kelapa pada tahun 1527 dipimpin oleh **Fatahillah**
+    - Di bawah ini yang merupakan penyebab runtuhnya kerajaan Aceh, kecuali **Dikuasai oleh kerajaan Malaka**.
+    - Salah satu faktor pendukung berkembangnya kerajaan Banten sebagai pusat perdagangan, yaitu **Kedudukan Banten yang sangat strategis di tepi Selat Sunda, karena aktivitas pelayaran perdagangan dari pedagang Islam semakin ramai sejak Portugis berkuasa di Malaka**
 - SIMPLIFIED **KESULTANAN SAMUDERA PASAI/DARUSSALAM**
     - Lokasi: Pantai Utara Sumatra (Aceh) dekat selat Malaka
     - Bukti:
