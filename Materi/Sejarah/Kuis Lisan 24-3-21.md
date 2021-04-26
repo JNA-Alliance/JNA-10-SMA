@@ -19,4 +19,3 @@
 18. Dimensi spasial dalam sejarah disebut dimensi ruang
 19. Manusia dalam sejarah diposisikan sebagai subjek. Sebagai pelaksanan dan pelakunya.
 20. Istilah dalam peristiwa sejarah itu abadi yaitu immortal.   
-
