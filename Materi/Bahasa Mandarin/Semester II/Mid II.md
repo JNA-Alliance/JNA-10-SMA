@@ -1,178 +1,187 @@
-# Bahan Ujian Mid II - Biologi
+# Bahan Ujian MID II - Mandarin
 
-## Trivia
-- Bapak Botani: **Theophrastus (370-285 SM)**
--  
+- Aksara / Pinyin / Arti (Inggris) | Arti (Indonesia)
+- [!-- NOTE --!]
 
-## Angiospermae
-- Tumbuhan Biji Tertutup
-- Tumbuhan berbunga, masuk ke divisi Magnoliophyta
-- Dianggap sebagai tumbuhan dengan tingkat perkembangan yang tertinggi
-- Ciri-ciri
-    - Memiliki bunga yang sesungguhnya (memiliki keloppak, putik, dan benang sari)
-    - Memiliki daun-daun yang pipih, lebar, dengan susunan tulang-tulang yang beraneka ragam.
-    - Bakal biji atau biji tidak tampak karena terbungkus oleh suatu badan yang berasal dari daun buah, yaitu putik.
-    - Memiliki selang waktu yang relatif pendek antara penyerbukan dan pembuahan
-    - Mengalami pembuahan ganda
-- Dibagi kedalam dua kelas:
-    - Tumbuhan Dikotil (*Dicotyledoneae/Magnoliopsida*)
-        - Akar: Sistem akar tunggang
-        - Batang dan akar: Mempunya kambium, sehingga dapat membesar
-        - Daun: Susunan tulang daun menyirip atau menjari
-        - Bunga: Jumlah bagian bunga umumnya 4, 5, atau kelipatannya
-        - Biji: Saat berkecambah membelah dua memperlihatkan 2 daun lembaga
-        - Ujung akar lembaga: Tidak mempunyai sarung pelindung
-        - Ujung pucuk: Tidak mempunyai sarung pelindung
-    - Tumbuhan Monokotil (*Monocotyledoeae/Liliopsida*)
-        - Akar: Sistem akar serabut
-        - Batang dan akar: Tidak berkambium, sehingga tidak dapat membesar
-        - Daun: Susunan tulang daun sejajar atau melengkung
-        - Bunga: Jumlah bagian bunga umumnya 3 atau kelipatannya
-        - Biji: Saat berkecambah tetap utuh tidak membelah
-        - Ujung akar lembaga: Mempunyai sarung pelindung yaitu *koleoriza*
-        - Ujung pucuk: Mempunyai sarung pelindung yaitu *koleoptil*
-- Reproduksi secara generatif (seksual) dengan biji dan secara vegetatif (aseksual), baik alami atau buatan (dengan cara mencangkok, meyambung, mengokulasi, merunduk, atau menyetek tanaman)
-- Pembuahan Ganda:
-    - Terjadi ketika dua sel sperma membuahi dua sel pada ovarium.
-    - Satu sel sperma membuahi sel telur, membentuk zigot atau diploid atau embrio
-    - Sel sperma yang satu lagi akan membuahi 2 inti polar haploid yang terletak di bagian tengah kantong embrio dan menghasilkan sel yang bersifat triploid (3n). Sel ini akan membelah secara meiosis dan menjadi *endosperma* (cadangan makanan)
-
-## Kingdom Animalia
-- Secara garis besar terbagi menjadi dua: Vertebrata (bertulang belakang) dan Invertebrata (tidak bertulang belakang).
-- Invertebrata terdiri atas dua golongan: Protozoa (bersel satu) dan Metazoa (bersel banyak)
-- Ciri umum:
-    - Multiseluler
-    - Heterotrof (tidak dapat membuat makanan sendiri)
-    - Eukariotik (memiliki membran pelindung nukleus)
-    - Tidak berdinding sel
-    - Tidak berklorofil
-    - Hidup di darat atau air
-- Sel-sel membentuk jaringan;; jaringan membentuk organ; organ membentuk sistem organ; sistem organ menyusun individu.
-- Dasar pengelompokan animalia:
-    - Berdasarkan ada tidaknya tulang belakang
-        - Vertebrata merupakan kelompok hewan yang memiliki tulang belakang dengan sumsum tulang contohnya kucing.
-        - Invertebrata merupakan kelompok hewan yang tidak memilikitulang belakang, contohnya cumi - cumi
-    - Berdasarkan simetris tubuh
-        - Simetri Bilateral adalah kelompok hewan yang jika tubuh hewan dipotong melalui garis yang diambil dari mulut ke anus maka akan diperoleh sisi kiri dan kanan yang sama, semua hewan vertebrata memiliki ciri ini.
-        - Simetri Radial, hanya dimiliki oleh hewan dengan tubuh bulat. Hewan dengan simetri radial biasa disebut dengan kelompok radiata.
-    - Berdasarkan lapisan tubuh
-        - Triploblastik aselomata merupakan kelompok hewan yang tidak memiliki rongga tubuh. Contohnya golongan Platyhelminthes (cacing pipih).
-        - Triploblastik pseudoselomata kelompkhewan yang memiliki rongga semu. Contohnya hewan dari golongan Nematoda (cacing gilik).
-        - Triploblastik selomata kelomppok hewan yang memiliki rongga sejati. Contohnya Annelida, Mollusca, Arthropoda, Echinodermata, dan Vertebrata.
-    - Berdasarkan makanan
-        - Karnivora merupakan kelompok hewan pemakan daging. Contohnya adalah singa, macan, jaguar, dan sebagainya
-        - Herbivora merupakan kelompok hewan pemakan tumbuhan, contohnya rusa, sapi, kuda, kambing, dan sebagainya
-        - Omnivora merupakan kelompok hewan pemakan daging dan tumbuhan, contohnya manusia.
-        - Pengurai merupakan kelompok hewan yang menguraikan tumbuhan atau hewan yang mati.
-    - Berdasarkan suhu tubuh
-        - Hewan berdarah panas (homeoterm) merupakan kelompok hewan yang dapat menjaga suhu tubuhnya dalam kondisi konstan meski cuaca panas atau dingin, contohnya mamalia dan aves.
-        - Hewan berdarah dingin (poikiloterm) merupakan kelompok hewan yang dapat mengatur suhu tubuhnya agar sesuai dengan suhu lingkungan. Contohnya hewan berdarah dingin adalah reptil, amfibi, dan laba laba.
-    - Berdasarkan Filum
-        - Protozoa merupakan kelompok hewan yang bersel satu contohnya amoeba, berkembangbiak melalui pembelahan diri secara mitosis.
-        - Porifera merupakan kelompok hewan berpori yang dapat ditemukan di ekosistem perairan, berkembangbiak secara generatif, vegetatif bahkan tunas. Contohnya Sycon.
-        - Coelenterata merupakan kelompok hewan dengan tubuh berongga. Contoh hewan dari filum ini adalah semua anemon laut dan beberapa jenis jenis terumbu karang.
-        - Vermes merupakan kelompok hewan cacing. Ini termasuk plathyhelminthes, nematoda dan annelida. Contohnya cacing tanah, cacing perut, dan cacing hati. (baca juga: klasifikasi cacing tanah)
-        - Mollusca merupakan kelompok hewan bertubuh lunak. Contohnnya cumi cumi, siput, dan bekicot.
-        - Arthropoda merupakan kelompok hewan dengan kaki beruas. Contohnya kalajengking, laba laba, dan kelabang.
-        - Echinodermata merupakan kelompok hewan laut baik yang berbentuk bintang, bulat atau memanjang. Contohnya bintang laut, bintang ular laut, dan bulu babi.
-        - Chordata merupakan kelompok hewan dengan tulang belakang. Contohnya adalah manusia, ikan, burung, amfibi dan reptil.
-
-### Porifera
-- Ciri umum
-    - Sebagian besar hewan berpori hidup di laut, hanya sebagian yang hidup di air tawar
-    - Tubuhnya berpori-pori, berbentuk seperti vas bunga, pipih, atau bercabang, dan melekat di dasar air. Pori-pori ini berfungsi sebagai tempat untuk masuknya air yang mengandung bahan makanan ke dalam tubuh.
-    - Rangka luar terdiri atas spikula yang tersusun dari zat kapur dan zat kersik.
-- Struktur Tubuh:
-    - Tubuhnya melekat pada dasar perairan, ada yang berwarna dan ada yang tidak
-    - Pada bagian tengah tubuhnya terdapat ruangan yang disebut *spongosol* (paragaster) yang merupakan saluran air.
-    - Pada ujuang atas ruang tersebut terdapat lubang besar tempat keluarnya air yang disebut *oskulum*
-    - Lapisan penyusun dari luar ke dalam:
-        - Epidermis: tersusun dari sel-sel epitelium pipih yang disebut **pinakosit**. Beberapa sel ini membentuk lubang kecil (ostium) tempat masukn ya air dan salurannya dilapisi oleh *porosit* yang berfungsi sebagai pengendali membuka dan menutupnya ostium
-        - Mesoglea (berupa gelatin): Lapisan pembatas antara lapisan dalam dan luar yang mengandung dua macam sel yaitu:
-            - Sel-sel ameboid: berfungsi untuk mengangkut zat makanan dan sisa-sisa metabolisme dari sel satu ke sel lainnya
-            - sel skleroblas: berfungsi membentuk spikula yang merupakan duri-duri sebagai penguat dinding yang lunak. Terususun dari zat kapur, zat kersik, dan ada pula dari protein yang disebut spongin.
-        - Endodermis: Terdiri atas sel-sel leher atau **koanosit** yang memiliki flagela dan berfungsi untuk mencerna makanan.
-- Sistem sirkulasi air
-    - Ascon: Saluran air yang lubang-lubang ostiumnya dihubungkan dengan saluran lurus langsung ke spongosor (Contoh: *Leucosolenia sp.*)
-    - Sycon/scypa: Saluran air yang lubang-lubang ostiumnya dihubungkan dengan saluran-saluran yang bercabang-cabang ke rongga-rongga yang berhubungan langsung dengan spongosol. Rongga-Rongga inilah yang dilapisi oleh koanosit (Contoh: *Scypha sp.*)
-    - Leuchon/rhagon: Saluran yang lubang2 ostiumnya dihubungkan dengan saluran yang bercabang-cabang ke rongga yang sudah tidak berhuungan langsung dengan spongosol. (Contoh: *Spongila sp.*)
-- Klasifikasi
-    - Calcarea: Memiliki spikula dari zat kapur dan hidup di laut dangkal (*Sycon sp.* dan *Clathrina sp.*)
-    - Hexactinellida: Memiliki spikula yang tersusun dari zat kersik dan hidup di laut yang dalam. Disebut juga spons gelas (*Pheronema sp.* dan *Euplectella sp.*)
-    - Desmospongiae: Bertulang lunak karena tidak memiliki rangka. (*Euspongia sp., Spongila sp., Callyspongia sp., Phyllospongia sp., Hoppospongia sp., Poterion sp.,* dan *Corticium sp.*)
-- Kerangka Porifera berupa serabut spongin sehingga membentuk bangunan seperti spon
-- Peran
-    - Di bidang lingkungan, porifer sebagai penyusun biodiversitas sebagai konsumen dan mengembalikan kualitas air dengan menyaring air melalui pori-pori tubuhnya.
-    - Secara ekonomi, spikula Euspongia sebagai spons/ alat penggosok badan dan pembersih kaca serta porifer bewarna cerah digunakan sebagai hiasan akuarium seperti Axinella cannabina.
-    - Dalam bidang kesehatan, zat kimia plakoridin A pada profiera bermanfaat sebagai pengobatan kanker limpa dan digunakan sebagai obat kontrasepsi.  
-    - Dalam ekosistem laut ikut berperan menjaga keseimbangan sebagai makanan hewan laut yang lain dan dapat menjadi tempat bersembunyi hewan laut dari predator. Porifera juga membetuk sebagai besar dari terumbu karang.
-    - Porifera dapat bersimbiosis dengan bakteri penghasil bioaktif.
-    - Membantu pelapukan dengan mengebor batu karang dan cangkang Mollusca.  
-
-### Ctenophora/Coelenterata
-- Ciri umum
-    - Tubuhnya simetri radial dan terdiri dari dua lapisan jaringan atau diploblastik.
-    - Menggunakan rongga tubuh sebagai tempat pencernaan makanan, pengedar sari makanan, dan pengeluaran makanan.
-    - Mempunyai tentakel disertai zat beracun (knidoblast) yang mengandung kapsul penyengat (nematosis) untuk pertahanan tubuh.
-    - Umumnya merupakan karnivora (hewan pemakan daging), namun tidak aktif atau mengejar mangsanya.
-    - Habitatnya berada di perairan, baik di perairan tawar maupun laut. Namun umumnya hidup di perairan laut
-- Klasifikasi Coelenterata
-    - Hydrozoa
-        - Sebagian besar berbentuk polip dan hidup di perairan laut.
-        - Dapat bekembangbiak dengan seksual maupun aseksual.
-        - Sebagian besar merupakan hemaprodit. Namun, meskipun hemaprodit, hewan tersebut tidak bisa melakukan pembuahan sendiri karena saat dewasa sel telur dan sperma yang dihasilkan tidak bersamaan, sehingga dalam fertilisasi tetap membutuhkan individu lain.
-        - Contoh : Hydra viridissima (hidra hijau), Hydra fusca (hidra coklat).
-    - Scyphozoa
-        - Bentuk tubuh menyerupai mangkuk atau cawan, sehingga seirngkali disebut dengan ubur-ubur mangkuk.
-        - Hidup dengan dua bentuk (medusa dan polip), namun bentuk medusanya lebih mendominasi.
-        - Diameter tubuh dapat mencapai 2 m.
-        - Memiliki kelenjar kelamin (gonad) yang teradapat dalam kantung-kantung ruang gastrikum.
-        - Hidup di perairan laut.
-        - Contoh: Aurelia aurita.
-    - Anthozoa
-        - Bentuk tubuh menyerupai bunga.
-        - Memiliki tentakel di sekitar mulut dalam jumlah yang banyak.
-        - Mulutnya memanjang, bermuara di dalam tabung yang disebut stomodeum.
-        - Pembentuk anemon laut atau terumbu karang.
-        - Hidup dengan bentuk polip. Bentuk polip dari koral yang menyekresikan kalsium karbonat di sekitar tubuhnya.
-        - Koral berukuran kecil, berkoloni, dan bervariasi dalam warna serta bentuk.
-        - Beberapa jenis koral bersimbiosis mutualisme dengan dinoflagellata. Koral dengan polipnya melindungi dinoflagellata, sedangkan dinoflagellata menyediakan oksigen dan mendaur ulang sisa metabolisme koral.
-        - Contoh : Stephnauge, Tubifora musica, Acropora sp., Fungia sp.
-- Struktur Tubuh:
-    - Tubuhnya terbagi atas ektoderm atau lapisan luar (epidermis) dan endoderm atau lapisan dalam (gastrodermis), diantara kedua lapisan tersebut terdapat mesoglea yang berfungsi sebagai kerangka hidrostatik.
-    - Selain untuk pertahanan tubuh, tentakelnya juga berfungsi untuk menangkap makanan.
-    - Sistem pencernaan makanannya tergolong ke dalam sistem gastrovaskuler, dimana peredaran makanan tidak melalui darah melainkan melalui usus.
-    - Terdapat oskulum yang berfungsi sebagai mulut dan anus.
-    - Memiliki dua bentuk tubuh, yaitu :
-        - Polip
-            - Coelenterata yang hidupnya tidak bebas atau hanya menempel pada suatu substrat tertentu.
-            - Berbentuk silindris, bagian proksimal melekat, bagian distal memiliki mulut yang dilingkupi tentakel, berkoloni, serta gonad dapat eksternal maupun internal.
-        - Medusa
-            - Coelenterata yang hidupnya bebas karena memiliki kemampuan untuk berenang.
-            - Berbentuk menyerupai payung atau lonceng dengan tentakel yang menggantung di permukaan.
-            - Ruang digesti berupa saluran radial, bercabang empat, dan bermuara di saluran sirkular.
-- Daur hidup (Aurelia sp.): Zigot – planula (larva bersilia) – skifistoma – strobilla – efira (ubur2 muda) – ubur-ubur dewasa.
-    - Medusa bereproduksi secara seksual dengan menghasilkan sel telur dan sperma.
-    - Setelah pembuahan antara sel telur dengan sperma, terbentuk zigot yang akan berkembang menjadi blastula.
-    - Blastula yang diperpanjang membentuk larva bersilia atau disebut dengan planula.
-    - Planula akan menempel di dasar air dan membentuk polip.
-    - Polip bereproduksi secara aseksual dengan membentuk medusa.
-- Daur hidup Obelia sp.: Polip → Medusa → Zigot → Blastula → Planula.
-
-### Platyhelminthes
-- Ciri umum
-    - Memiliki tubuh yang simetris bilateral dengan bentuk pipih.
-    - Platyhelminthes merupakan hewan yang memiliki tubuh simetri bilateral paling sederhana.
-    - Tidak memiliki rongga tubuh sehingga tergolong hewan aselomata.
-    - Sistem pencernaan terdiri dari mulut, faring dan usus. Cacing pipih tidak memiliki anus.
-    - Usus cacing pipih bercabang – cabang ke seluruh bagian tubuh.
-    - Tidak memiliki sistem peredaran darah, respirasi dan eksresi.
-    - Penafasan pada cacing pipih dilakukan secara difusi oleh seluruh sel tubuhnya.
-    - Kelompok platyhelminthes tertentu memiliki sistem syaraf tangga tali. Sistem syaraf ini terdiri dari sepasang simpul syaraf (ganglia) dengan sepasang tali syaraf yang memanjang dan bercabang – cabang melintang seperti tangga.
-    - Memiliki organ reproduksi jantan yaitu testis dan betina yaitu ovarium yang terdapat dalam satu individu. Oleh karena itu platyhelminthes disebut hewan hemafrodit.
-    - Alat reproduksi cacing pipih terdapat pada ventral tubuh.
-    - Ada yang hidup bebas di alam dan ada juga yang bersifat parasit.
-    - Cacing pipih yang hidup dialam memakan hewan-hewan kecil dan tumbuhan kecil atau zat organik lainnya dari sisa organisme yang sudah mati.
-    - Yang bersifat parasit, hidup dan makan lewat tubuh inangnya.
-    - Habitat cacing pipih yang hidup bebas adalah air tawar, laut dan tempat – tempat yang lembab.
-    - Sedangkan yang parasit, hidup didalam tubuh inangnya (endoparasit) seperti siput air, sapi, babi atau manus
+- Halaman 4
+    1.  送 / Sòng / give / memberikan
+    2.  哎 / Āi / oh! (exclamation to show surprise) / oh! (kata ekspresi terkejut)
+    3.  便 / Biàn / so (a linkage word) / jadi (kata hubung)
+    4.  分 / Fēn / minutes / menit
+    5.  累 / Lèi / tired / capek
+    6.  让 / Ràng / allow; permit / diperbolehkan; izin
+    7.  刻 / Kè / a unit of time (per 15 minutes) / satuan waktu (per 15 menit)
+    8.  表姐 / Biǎo jiě / cousin / sepupu
+    9.  记得 / Jì dé / remember / mengingat
+    10. 茶会 / Chá huì / tea party / pesta teh
+    11. 庆祝 / Qìng zhù / celebrate / perayaan
+    12. 参加 / Cān jiā / participate
+    13. 看中 / Kàn zhòng / take a liking to / indah; fantastis (Fancy)
+    14. 礼物 / Lǐ wù / present; gift / hadiah
+    15. 起身 / Qǐ shēn / wake up / bangun
+    16. 知道 / Zhī dào / know / mengetahui
+    17. 迟到 / Chí dào / late / terlambat
+    18. 满意 / Mǎn yì / pleased / memuaskan
+    19. 音乐盒 / Yīn yuè hé / musical box
+    20. 教师节 / Jiào shī jié / Teachers' Day / Hari Guru
+    21. 购物中心 / Gòu wù zhòng xīn / shopping centre / pusat pemberlanjaan
+    22. 电子邮件 / Dià nzǐ yóu jiàn / electronic mail; email / surat elektronik
+- Halaman 20
+    1.  坏 / Huài / spoilt; destroyed | buruk
+    2.  價錢 / Jià qián / price | harga
+    3.  一直 / Yī zhí / all the way | selalu
+    4.  解決 / Jiě jué / solve (a problem) | memecahkan
+    5.  比如 / Bǐ rú / for example | seperti
+    6.  衣服 / Yī fú / clothes | pakaian
+    7.  补品 / Bǔ pǐn / tonic | tonik
+    8.  手表 / Shǒu biǎo / watch | jam
+    9.  提醒 / Tí xǐng / remind | mengingatkan
+    10. 逛街 / Guàng jiē / take a stroll in the streets; shopping | Pergi belanja
+    11. 女装 / Nǚ zhuāng / women's apparel | wanita; perempuan
+    12. 裙子 / Qún zi / skirt | rok
+    13. 款式 / Kuǎn shì / design; style | gaya
+    14. 颜色 / Yán sè / colour | warna
+    15. 一双 / Yī shuāng / (measure-word) a pair | sepasang
+    16. 粉紅色 / Fěn hóng sè / pink colour | merah jambu
+    17. 運動鞋 / Yùn dòng xié / sports shoes | sepatu olahraga
+    18. 化妝品 / Huàz huāng pǐn / cosmetic products | kosmetik
+    19. 热卖会 / Rè mài huì / great sale | diskon besar-besaran
+    20. 售货员 / Shòu huò yuán / salesperson | pramuniaga
+    21. 百貨公司 / Bǎi huò gōng sī / departmental store | toko serba ada
+- Halaman 29
+    1.  骑 / Qí / ride (on a bicycle, etc.)
+    2.  丟 / Diū / throw
+    3.  乱 / Luàn / denote action that is indiscriminate or random (chaos)
+    4.  捡 / Jiǎn / pick up
+    5.  海风 / Hǎi fēng / sea breeze
+    6.  享用 / Xiǎng yòng / enjoy
+    7.  別有 / Bié yǒu / denote something that is unique or distinctive
+    8.  一番 / Yī fān / (measure-word)
+    9.  情趣 / Qíng qù / in this context, it means adding interest or variety to one's life (fun)
+    10. 休息 / Xiū xí / rest
+    11. 疲倦 / Pí juàn / tired; weary
+    12. 隨手 / Suí shǒu / conveniently
+    13. 其他 / Qí tā / others
+    14. 保持 / Bǎo chí / maintain
+    15. 环境 / Huán jìng / environment
+    16. 死板 / Sǐbǎn / rigid; inflexible
+    17. 优美 / Yōu měi / fine; beautiful
+    18. 脚踏车 / Jiǎo tà chē / bicycle
+    19. 呼呼大睡 / Hū hū dà shuì / soundly asleep
+    20. 談天說地 / Tán tiān shuō dì / chat about everything under the sun
+- Halaman 45
+    1. 男裝部 / Nán zhuāng bù / men's apparel department
+    2. 种类 / Zhǒng lèi / variety; types
+    3. 逛 / Guàng / roam
+    4. 一陣子 / Yī zhèn zi / a period of time
+    5. 洗衣机 / Xǐ yī jī / washing machine
+    6. 干净 / Gān jìng / clean
+    7. 皮鞋 / Pí xié / leather shoes
+    8. 肮脏 / Āng zāng / filthy; dirty
+    9. 擦 / Cā / polish; wipe
+    10. 闪闪发亮 / Shǎn shǎn fā liàng / sparkling; shining
+    11. 沙发 / Shā fā / sofa
+    12. 怪 / Guài / blame; reproach
+    13. 微笑 / Wéi xiào / smile
+    14. 期望 / Qī wàng / expectation
+    15. 希望 / Xī wàng / hope
+    16. 品德 / Pǐn dé / moral character
+    17. 孝順 / Xiào shùn / filial
+    18. 社会 / Shè huì / society
+    19. 公民 / Gōng mín / citizen
+- Halaman 54
+    1.  喊 / Hǎn / shout; yell
+    2.  拿 / Ná / take; obtain
+    3.  车票 / Chē piào / bus ticket
+    4.  更多 / Gèng duō / even more
+    5.  鼓勵 / Gǔ lì / encourage
+    6.  丰富 / Fēngfù / enriching; of great variety
+    7.  观赏 / Guān shǎng / view and admire
+    8.  呈獻 / Chéng xiàn / present
+    9.  话剧 / Huà jù / stage play
+    10. 相声 / Xiàng sheng / cross talk
+    11. 猜謎 / Cāi mí / guess the riddle
+    12. 獎品 / Jiǎng pǐn / prize
+    13. 灯笼 / Dēng lóng / lantern
+    14. 风筝 / Fēngzhēng / kite
+    15. 錯过 / Cuò guò / miss; let slip
+    16. 文化营 / Wén huà yíng / cultural camp
+    17. 補習班 / Bǔ xí bān / tuition class
+    18. 舞蹈團 / Wǔ dǎo tuán / dance troupe
+    19. 兴高采烈 / Xìng gāo cǎi liè / with great joy
+- Halaman 64
+    1.  找 / Zhǎo / to search
+    2.  台 / Tái / ( a measure word)
+    3.  遇见 / Yù jiàn / meet; come across
+    4.  谈天 / Tán tiān / chat
+    5.  后来 / Hòu lái / after that; later on
+    6.  各自 / Gè zì / each of us
+    7.  美术 / Měi shù / art
+    8.  除了 / Chú le / besides
+    9.  兴趣 / Xìng qù / interest
+    10. 乐器 / Yuè qì / musical intruments
+    11. 流行 / Liú xíng / popular (pop)
+    12. 歌曲 / Gē qǔ / songs
+    13. 书法 / shū fǎ / Chinese calligraphy
+    14. 收集 / Shōu jí / collect
+    15. 邮票 / Yóu piào / stamps
+    16. 上网 / Shàng wǎng / go online
+    17. 新闻 / Xīn wén / news
+    18. 資料 / Zī liào / information; data
+    19. 购物 / Gòu wù / shopping
+    20. 峇迪画 / Bā dí huà / batik painting
+    21. 互联网 / Hù lián wǎng / the Internet
+    22. 快餐店 / Kuài cān diàn / fast food restaurant
+    23. --- MISSING PROJECT (ZHUAN TI ZUO YE) ---
+- Halaman 19
+    1.  坏 / Huài / spoilt; destroyed | buruk
+    2.  價錢 / Jià qián / price | harga
+    3.  一直 / Yī zhí / all the way | selalu
+    4.  解決 / Jiě jué / solve (a problem) | memecahkan
+    5.  比如 / Bǐ rú / for example | seperti
+    6.  衣服 / Yī fú / clothes | pakaian
+    7.  补品 / Bǔ pǐn / tonic | tonik
+    8.  手表 / Shǒu biǎo / watch | jam
+    9.  提醒 / Tí xǐng / remind | mengingatkan
+    10. 逛街 / Guàng jiē / take a stroll in the streets; shopping | Pergi belanja
+    11. 女装 / Nǚ zhuāng / women's apparel | wanita; perempuan
+    12. 裙子 / Qún zi / skirt | rok
+    13. 款式 / Kuǎn shì / design; style | gaya
+    14. 颜色 / Yán sè / colour | warna
+    15. 一双 / Yī shuāng / (measure-word) a pair | sepasang
+    16. 粉紅色 / Fěn hóng sè / pink colour | merah jambu
+    17. 運動鞋 / Yùn dòng xié / sports shoes | sepatu olahraga
+    18. 化妝品 / Huàz huāng pǐn / cosmetic products | kosmetik
+    19. 热卖会 / Rè mài huì / great sale | diskon besar-besaran
+    20. 售货员 / Shòu huò yuán / salesperson | pramuniaga
+    21. 百貨公司 / Bǎi huò gōng sī / departmental store | toko serba ada
+- Halaman 37
+    1. 拉 / Lā / pull
+    2. 瞧 / Qiáo / look; see
+    3. 乖 / Guāi / well-behaved; obedient
+    4. 橙 / Chéng / orange
+    5. 聊 / Liáo / chat
+    6. 充満 / Chōng mǎn / fill with; full of
+    7. 气氛 / Qì fēn / atmosphere
+    8. 秘书 / Mì shū / secretary
+    9. 主席 / Zhǔ xí / chairman
+    10. 电视 / Diàn shì / television
+    11. 海报 / Hǎi bào / poster
+    12. 节目 / Jié mù / programme
+    13. 种族 / Zhǒng zú / ethnic group
+    14. 和谐 / Hé xié / harmony
+    15. 敲门 / Qiāo mén / knock on the door
+    16. 声音 / Shēng yīn / sound
+    17. 原來 / Yuán lái / it turns out
+    18. 阿姨 / Ā yí / aunt
+    19. 公告栏 / Gōng gào lán / noticeboard
+    20. 滿臉笑容 / Mǎn liǎn xiào róng / be all smiles
+    21. 居民委员会 / Jū mín wěi yuán huì / Residents' committee
+- Halaman 46
+    1. 服务 / Fú wù / serve; render service
+    2. 朝 / Cháo / facing; towards
+    3. 爭光 / Zhēng guāng / clinch glory for
+    4. 目標 / Mù biāo / goal; aim
+    5. 製作 / Zhì zuò / make
+    6. 生日卡 / Shēng rì kǎ / birthday card
+    7. 祝福 / Zhù fú / blessing

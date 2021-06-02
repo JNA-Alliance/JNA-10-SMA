@@ -1,0 +1,178 @@
+# Bahan Ujian Mid II - Biologi
+
+## Trivia
+- Bapak Botani: **Theophrastus (370-285 SM)**
+-  
+
+## Angiospermae
+- Tumbuhan Biji Tertutup
+- Tumbuhan berbunga, masuk ke divisi Magnoliophyta
+- Dianggap sebagai tumbuhan dengan tingkat perkembangan yang tertinggi
+- Ciri-ciri
+    - Memiliki bunga yang sesungguhnya (memiliki keloppak, putik, dan benang sari)
+    - Memiliki daun-daun yang pipih, lebar, dengan susunan tulang-tulang yang beraneka ragam.
+    - Bakal biji atau biji tidak tampak karena terbungkus oleh suatu badan yang berasal dari daun buah, yaitu putik.
+    - Memiliki selang waktu yang relatif pendek antara penyerbukan dan pembuahan
+    - Mengalami pembuahan ganda
+- Dibagi kedalam dua kelas:
+    - Tumbuhan Dikotil (*Dicotyledoneae/Magnoliopsida*)
+        - Akar: Sistem akar tunggang
+        - Batang dan akar: Mempunya kambium, sehingga dapat membesar
+        - Daun: Susunan tulang daun menyirip atau menjari
+        - Bunga: Jumlah bagian bunga umumnya 4, 5, atau kelipatannya
+        - Biji: Saat berkecambah membelah dua memperlihatkan 2 daun lembaga
+        - Ujung akar lembaga: Tidak mempunyai sarung pelindung
+        - Ujung pucuk: Tidak mempunyai sarung pelindung
+    - Tumbuhan Monokotil (*Monocotyledoeae/Liliopsida*)
+        - Akar: Sistem akar serabut
+        - Batang dan akar: Tidak berkambium, sehingga tidak dapat membesar
+        - Daun: Susunan tulang daun sejajar atau melengkung
+        - Bunga: Jumlah bagian bunga umumnya 3 atau kelipatannya
+        - Biji: Saat berkecambah tetap utuh tidak membelah
+        - Ujung akar lembaga: Mempunyai sarung pelindung yaitu *koleoriza*
+        - Ujung pucuk: Mempunyai sarung pelindung yaitu *koleoptil*
+- Reproduksi secara generatif (seksual) dengan biji dan secara vegetatif (aseksual), baik alami atau buatan (dengan cara mencangkok, meyambung, mengokulasi, merunduk, atau menyetek tanaman)
+- Pembuahan Ganda:
+    - Terjadi ketika dua sel sperma membuahi dua sel pada ovarium.
+    - Satu sel sperma membuahi sel telur, membentuk zigot atau diploid atau embrio
+    - Sel sperma yang satu lagi akan membuahi 2 inti polar haploid yang terletak di bagian tengah kantong embrio dan menghasilkan sel yang bersifat triploid (3n). Sel ini akan membelah secara meiosis dan menjadi *endosperma* (cadangan makanan)
+
+## Kingdom Animalia
+- Secara garis besar terbagi menjadi dua: Vertebrata (bertulang belakang) dan Invertebrata (tidak bertulang belakang).
+- Invertebrata terdiri atas dua golongan: Protozoa (bersel satu) dan Metazoa (bersel banyak)
+- Ciri umum:
+    - Multiseluler
+    - Heterotrof (tidak dapat membuat makanan sendiri)
+    - Eukariotik (memiliki membran pelindung nukleus)
+    - Tidak berdinding sel
+    - Tidak berklorofil
+    - Hidup di darat atau air
+- Sel-sel membentuk jaringan;; jaringan membentuk organ; organ membentuk sistem organ; sistem organ menyusun individu.
+- Dasar pengelompokan animalia:
+    - Berdasarkan ada tidaknya tulang belakang
+        - Vertebrata merupakan kelompok hewan yang memiliki tulang belakang dengan sumsum tulang contohnya kucing.
+        - Invertebrata merupakan kelompok hewan yang tidak memilikitulang belakang, contohnya cumi - cumi
+    - Berdasarkan simetris tubuh
+        - Simetri Bilateral adalah kelompok hewan yang jika tubuh hewan dipotong melalui garis yang diambil dari mulut ke anus maka akan diperoleh sisi kiri dan kanan yang sama, semua hewan vertebrata memiliki ciri ini.
+        - Simetri Radial, hanya dimiliki oleh hewan dengan tubuh bulat. Hewan dengan simetri radial biasa disebut dengan kelompok radiata.
+    - Berdasarkan lapisan tubuh
+        - Triploblastik aselomata merupakan kelompok hewan yang tidak memiliki rongga tubuh. Contohnya golongan Platyhelminthes (cacing pipih).
+        - Triploblastik pseudoselomata kelompkhewan yang memiliki rongga semu. Contohnya hewan dari golongan Nematoda (cacing gilik).
+        - Triploblastik selomata kelomppok hewan yang memiliki rongga sejati. Contohnya Annelida, Mollusca, Arthropoda, Echinodermata, dan Vertebrata.
+    - Berdasarkan makanan
+        - Karnivora merupakan kelompok hewan pemakan daging. Contohnya adalah singa, macan, jaguar, dan sebagainya
+        - Herbivora merupakan kelompok hewan pemakan tumbuhan, contohnya rusa, sapi, kuda, kambing, dan sebagainya
+        - Omnivora merupakan kelompok hewan pemakan daging dan tumbuhan, contohnya manusia.
+        - Pengurai merupakan kelompok hewan yang menguraikan tumbuhan atau hewan yang mati.
+    - Berdasarkan suhu tubuh
+        - Hewan berdarah panas (homeoterm) merupakan kelompok hewan yang dapat menjaga suhu tubuhnya dalam kondisi konstan meski cuaca panas atau dingin, contohnya mamalia dan aves.
+        - Hewan berdarah dingin (poikiloterm) merupakan kelompok hewan yang dapat mengatur suhu tubuhnya agar sesuai dengan suhu lingkungan. Contohnya hewan berdarah dingin adalah reptil, amfibi, dan laba laba.
+    - Berdasarkan Filum
+        - Protozoa merupakan kelompok hewan yang bersel satu contohnya amoeba, berkembangbiak melalui pembelahan diri secara mitosis.
+        - Porifera merupakan kelompok hewan berpori yang dapat ditemukan di ekosistem perairan, berkembangbiak secara generatif, vegetatif bahkan tunas. Contohnya Sycon.
+        - Coelenterata merupakan kelompok hewan dengan tubuh berongga. Contoh hewan dari filum ini adalah semua anemon laut dan beberapa jenis jenis terumbu karang.
+        - Vermes merupakan kelompok hewan cacing. Ini termasuk plathyhelminthes, nematoda dan annelida. Contohnya cacing tanah, cacing perut, dan cacing hati. (baca juga: klasifikasi cacing tanah)
+        - Mollusca merupakan kelompok hewan bertubuh lunak. Contohnnya cumi cumi, siput, dan bekicot.
+        - Arthropoda merupakan kelompok hewan dengan kaki beruas. Contohnya kalajengking, laba laba, dan kelabang.
+        - Echinodermata merupakan kelompok hewan laut baik yang berbentuk bintang, bulat atau memanjang. Contohnya bintang laut, bintang ular laut, dan bulu babi.
+        - Chordata merupakan kelompok hewan dengan tulang belakang. Contohnya adalah manusia, ikan, burung, amfibi dan reptil.
+
+### Porifera
+- Ciri umum
+    - Sebagian besar hewan berpori hidup di laut, hanya sebagian yang hidup di air tawar
+    - Tubuhnya berpori-pori, berbentuk seperti vas bunga, pipih, atau bercabang, dan melekat di dasar air. Pori-pori ini berfungsi sebagai tempat untuk masuknya air yang mengandung bahan makanan ke dalam tubuh.
+    - Rangka luar terdiri atas spikula yang tersusun dari zat kapur dan zat kersik.
+- Struktur Tubuh:
+    - Tubuhnya melekat pada dasar perairan, ada yang berwarna dan ada yang tidak
+    - Pada bagian tengah tubuhnya terdapat ruangan yang disebut *spongosol* (paragaster) yang merupakan saluran air.
+    - Pada ujuang atas ruang tersebut terdapat lubang besar tempat keluarnya air yang disebut *oskulum*
+    - Lapisan penyusun dari luar ke dalam:
+        - Epidermis: tersusun dari sel-sel epitelium pipih yang disebut **pinakosit**. Beberapa sel ini membentuk lubang kecil (ostium) tempat masukn ya air dan salurannya dilapisi oleh *porosit* yang berfungsi sebagai pengendali membuka dan menutupnya ostium
+        - Mesoglea (berupa gelatin): Lapisan pembatas antara lapisan dalam dan luar yang mengandung dua macam sel yaitu:
+            - Sel-sel ameboid: berfungsi untuk mengangkut zat makanan dan sisa-sisa metabolisme dari sel satu ke sel lainnya
+            - sel skleroblas: berfungsi membentuk spikula yang merupakan duri-duri sebagai penguat dinding yang lunak. Terususun dari zat kapur, zat kersik, dan ada pula dari protein yang disebut spongin.
+        - Endodermis: Terdiri atas sel-sel leher atau **koanosit** yang memiliki flagela dan berfungsi untuk mencerna makanan.
+- Sistem sirkulasi air
+    - Ascon: Saluran air yang lubang-lubang ostiumnya dihubungkan dengan saluran lurus langsung ke spongosor (Contoh: *Leucosolenia sp.*)
+    - Sycon/scypa: Saluran air yang lubang-lubang ostiumnya dihubungkan dengan saluran-saluran yang bercabang-cabang ke rongga-rongga yang berhubungan langsung dengan spongosol. Rongga-Rongga inilah yang dilapisi oleh koanosit (Contoh: *Scypha sp.*)
+    - Leuchon/rhagon: Saluran yang lubang2 ostiumnya dihubungkan dengan saluran yang bercabang-cabang ke rongga yang sudah tidak berhuungan langsung dengan spongosol. (Contoh: *Spongila sp.*)
+- Klasifikasi
+    - Calcarea: Memiliki spikula dari zat kapur dan hidup di laut dangkal (*Sycon sp.* dan *Clathrina sp.*)
+    - Hexactinellida: Memiliki spikula yang tersusun dari zat kersik dan hidup di laut yang dalam. Disebut juga spons gelas (*Pheronema sp.* dan *Euplectella sp.*)
+    - Desmospongiae: Bertulang lunak karena tidak memiliki rangka. (*Euspongia sp., Spongila sp., Callyspongia sp., Phyllospongia sp., Hoppospongia sp., Poterion sp.,* dan *Corticium sp.*)
+- Kerangka Porifera berupa serabut spongin sehingga membentuk bangunan seperti spon
+- Peran
+    - Di bidang lingkungan, porifer sebagai penyusun biodiversitas sebagai konsumen dan mengembalikan kualitas air dengan menyaring air melalui pori-pori tubuhnya.
+    - Secara ekonomi, spikula Euspongia sebagai spons/ alat penggosok badan dan pembersih kaca serta porifer bewarna cerah digunakan sebagai hiasan akuarium seperti Axinella cannabina.
+    - Dalam bidang kesehatan, zat kimia plakoridin A pada profiera bermanfaat sebagai pengobatan kanker limpa dan digunakan sebagai obat kontrasepsi.  
+    - Dalam ekosistem laut ikut berperan menjaga keseimbangan sebagai makanan hewan laut yang lain dan dapat menjadi tempat bersembunyi hewan laut dari predator. Porifera juga membetuk sebagai besar dari terumbu karang.
+    - Porifera dapat bersimbiosis dengan bakteri penghasil bioaktif.
+    - Membantu pelapukan dengan mengebor batu karang dan cangkang Mollusca.  
+
+### Ctenophora/Coelenterata
+- Ciri umum
+    - Tubuhnya simetri radial dan terdiri dari dua lapisan jaringan atau diploblastik.
+    - Menggunakan rongga tubuh sebagai tempat pencernaan makanan, pengedar sari makanan, dan pengeluaran makanan.
+    - Mempunyai tentakel disertai zat beracun (knidoblast) yang mengandung kapsul penyengat (nematosis) untuk pertahanan tubuh.
+    - Umumnya merupakan karnivora (hewan pemakan daging), namun tidak aktif atau mengejar mangsanya.
+    - Habitatnya berada di perairan, baik di perairan tawar maupun laut. Namun umumnya hidup di perairan laut
+- Klasifikasi Coelenterata
+    - Hydrozoa
+        - Sebagian besar berbentuk polip dan hidup di perairan laut.
+        - Dapat bekembangbiak dengan seksual maupun aseksual.
+        - Sebagian besar merupakan hemaprodit. Namun, meskipun hemaprodit, hewan tersebut tidak bisa melakukan pembuahan sendiri karena saat dewasa sel telur dan sperma yang dihasilkan tidak bersamaan, sehingga dalam fertilisasi tetap membutuhkan individu lain.
+        - Contoh : Hydra viridissima (hidra hijau), Hydra fusca (hidra coklat).
+    - Scyphozoa
+        - Bentuk tubuh menyerupai mangkuk atau cawan, sehingga seirngkali disebut dengan ubur-ubur mangkuk.
+        - Hidup dengan dua bentuk (medusa dan polip), namun bentuk medusanya lebih mendominasi.
+        - Diameter tubuh dapat mencapai 2 m.
+        - Memiliki kelenjar kelamin (gonad) yang teradapat dalam kantung-kantung ruang gastrikum.
+        - Hidup di perairan laut.
+        - Contoh: Aurelia aurita.
+    - Anthozoa
+        - Bentuk tubuh menyerupai bunga.
+        - Memiliki tentakel di sekitar mulut dalam jumlah yang banyak.
+        - Mulutnya memanjang, bermuara di dalam tabung yang disebut stomodeum.
+        - Pembentuk anemon laut atau terumbu karang.
+        - Hidup dengan bentuk polip. Bentuk polip dari koral yang menyekresikan kalsium karbonat di sekitar tubuhnya.
+        - Koral berukuran kecil, berkoloni, dan bervariasi dalam warna serta bentuk.
+        - Beberapa jenis koral bersimbiosis mutualisme dengan dinoflagellata. Koral dengan polipnya melindungi dinoflagellata, sedangkan dinoflagellata menyediakan oksigen dan mendaur ulang sisa metabolisme koral.
+        - Contoh : Stephnauge, Tubifora musica, Acropora sp., Fungia sp.
+- Struktur Tubuh:
+    - Tubuhnya terbagi atas ektoderm atau lapisan luar (epidermis) dan endoderm atau lapisan dalam (gastrodermis), diantara kedua lapisan tersebut terdapat mesoglea yang berfungsi sebagai kerangka hidrostatik.
+    - Selain untuk pertahanan tubuh, tentakelnya juga berfungsi untuk menangkap makanan.
+    - Sistem pencernaan makanannya tergolong ke dalam sistem gastrovaskuler, dimana peredaran makanan tidak melalui darah melainkan melalui usus.
+    - Terdapat oskulum yang berfungsi sebagai mulut dan anus.
+    - Memiliki dua bentuk tubuh, yaitu :
+        - Polip
+            - Coelenterata yang hidupnya tidak bebas atau hanya menempel pada suatu substrat tertentu.
+            - Berbentuk silindris, bagian proksimal melekat, bagian distal memiliki mulut yang dilingkupi tentakel, berkoloni, serta gonad dapat eksternal maupun internal.
+        - Medusa
+            - Coelenterata yang hidupnya bebas karena memiliki kemampuan untuk berenang.
+            - Berbentuk menyerupai payung atau lonceng dengan tentakel yang menggantung di permukaan.
+            - Ruang digesti berupa saluran radial, bercabang empat, dan bermuara di saluran sirkular.
+- Daur hidup (Aurelia sp.): Zigot – planula (larva bersilia) – skifistoma – strobilla – efira (ubur2 muda) – ubur-ubur dewasa.
+    - Medusa bereproduksi secara seksual dengan menghasilkan sel telur dan sperma.
+    - Setelah pembuahan antara sel telur dengan sperma, terbentuk zigot yang akan berkembang menjadi blastula.
+    - Blastula yang diperpanjang membentuk larva bersilia atau disebut dengan planula.
+    - Planula akan menempel di dasar air dan membentuk polip.
+    - Polip bereproduksi secara aseksual dengan membentuk medusa.
+- Daur hidup Obelia sp.: Polip → Medusa → Zigot → Blastula → Planula.
+
+### Platyhelminthes
+- Ciri umum
+    - Memiliki tubuh yang simetris bilateral dengan bentuk pipih.
+    - Platyhelminthes merupakan hewan yang memiliki tubuh simetri bilateral paling sederhana.
+    - Tidak memiliki rongga tubuh sehingga tergolong hewan aselomata.
+    - Sistem pencernaan terdiri dari mulut, faring dan usus. Cacing pipih tidak memiliki anus.
+    - Usus cacing pipih bercabang – cabang ke seluruh bagian tubuh.
+    - Tidak memiliki sistem peredaran darah, respirasi dan eksresi.
+    - Penafasan pada cacing pipih dilakukan secara difusi oleh seluruh sel tubuhnya.
+    - Kelompok platyhelminthes tertentu memiliki sistem syaraf tangga tali. Sistem syaraf ini terdiri dari sepasang simpul syaraf (ganglia) dengan sepasang tali syaraf yang memanjang dan bercabang – cabang melintang seperti tangga.
+    - Memiliki organ reproduksi jantan yaitu testis dan betina yaitu ovarium yang terdapat dalam satu individu. Oleh karena itu platyhelminthes disebut hewan hemafrodit.
+    - Alat reproduksi cacing pipih terdapat pada ventral tubuh.
+    - Ada yang hidup bebas di alam dan ada juga yang bersifat parasit.
+    - Cacing pipih yang hidup dialam memakan hewan-hewan kecil dan tumbuhan kecil atau zat organik lainnya dari sisa organisme yang sudah mati.
+    - Yang bersifat parasit, hidup dan makan lewat tubuh inangnya.
+    - Habitat cacing pipih yang hidup bebas adalah air tawar, laut dan tempat – tempat yang lembab.
+    - Sedangkan yang parasit, hidup didalam tubuh inangnya (endoparasit) seperti siput air, sapi, babi atau manus
