@@ -46,12 +46,14 @@ void loop()
         digitalWrite(kipas, HIGH);
         flag_barusan_ada_api = true;
     } else if (flag_barusan_ada_api) {
+        // Tidak ada api lagi namun barusan ada api
         flag_barusan_ada_api = false;
         motor_mundur();
         delay(2000);
         motor_belok_kanan();
         delay(500); // 90 derajat*
     } else {
+        // Tidak ada api, barusan tidak ada api atau sudah belok kanan
         motor_maju();
     }
 }
