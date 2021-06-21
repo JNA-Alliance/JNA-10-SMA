@@ -1,0 +1,298 @@
+# Bahan Ujian Semester II - Biologi
+
+## Kingdom Plantae (Tumbuhan/Kormophyta)
+- Notes:
+    - Kormophyta terdiri dari kata
+        - kormo = sudah memiliki akar, batang, dan daun
+    - Semua yang berakhiran *-phyta* adalah tumbuhan
+- Pembagian:
+    - Berdasarkan ada atau tidaknya pembuluh angkut
+        - Vaskuler (ada pembuluh angkutnya) (Tracheophyta)
+            - Pteridophyta (Tumbuhan Paku)
+            - Spermatophyta (Tumbuhan Berbiji)
+                - Gymnospermae (Biji terbuka)
+                - Angiospermae (Biji tertutup)
+        - Avaskuler (tidak ada pembuluh angkutnya)
+            - Bryophyta (Tumbuhan Lumut)
+- Ciri umum:
+    - Multiseluler atau mempunyai banyak sel
+    - Autrotrof, bisa membuat makanan sendiri
+    - Eukariotik, merupakan sel yang telah memiliki membrane inti sel.
+    - Terdapat dinding sel yang terbuat dari selulosa
+    - Hidup di daratan yang lembab atau perairan
+    - Dapat menyimpan cadangan makanan dalam bentuk amilum (pati)
+    - Memperoleh makanan dengan cara fotosintesis yang dibantu dengan cahaya matahari
+    - Bereproduksi secara seksual (putik dan benang sari) maupun aseksual (cangkok, tunas, setek dan lainya)
+    - Memiliki akar yang berguna untuk menyerap air dan memperkokoh tumbuhan
+    - Memiliki daun untuk mengumpulkan sinar matahari yang digunakan untuk menghasilkan glukosa. Memiliki organ dan sistem organ Memiliki bunga sebagai alat reproduksi seksual.
+    - Memiliki pergiliran keturunan dalam siklus hidupnya yang disebut metagenesis. Metagenesis pada kingdom plantae adalah siklus hidup suatu tumbuhan yang menampilkan suatu pergiliran generasi. Siklus tersebut tersusun dari generasi gametofit yang merupakan individu multiseluler menghasilkan gamet haploid serta generasi sporofit yang merupakan individu multiseluler yang menghasilkan spora yang dihasilkan oleh sel penghasil spora (sel sporogenik).
+- Klasifikasi:
+    - Bryophyta (Lumut)
+        - Ciri umum:
+            - Ukuran kecil (1-2cm saja)
+            - Tidak mempunyai organ akar, batang, atau daun sungguhan (hanya menyerupai saja)
+                - Akar di lumut disebut **Rhizoid**
+                - Akar lumut tidak dapat mengangkut air dan nutrisi ke organ lain. Hanya dapat menyerap air dan nutrisi dan melengketkan lumut ke tanah.
+                - Pengangkutan air dan nutrisi dilakukan oleh jaringan terdekat yang saling terhubung.
+                - Batang hanya tersusun oleh beberapa lapis sel saja dan tidak ada jaringan angkut
+                - Daun tidak memiliki tulang
+            - Tebal daun satu lapis sel
+            - Batang hanya memanjang tidak membesar
+            - Memiliki rizoid berfungsi seperti akar
+            - Memiliki 2 macam struktur: Sporofit dan Gametofit
+            - **KOSMOPOLIT** (Dapat hidup dimana saja)
+        - Struktur
+            ![](https://rumusbilangan.com/wp-content/uploads/2019/10/Struktur-Lumut.png)
+            ![](https://idschool.net/wp-content/uploads/2018/08/Struktur-Tumbuhan-Lumut-e1534230979888.jpg)
+            ![](https://lh6.googleusercontent.com/-IYSPawTgZts/TXBQveJ0eqI/AAAAAAAAAA0/_50gmkwDi8k/s1600/lumut.jpg)
+            ![](https://id-static.z-dn.net/files/dfe/970ffbb5d4fbdeb80ed272e1f1f95e90.png)
+            ![](https://i0.wp.com/www.amongguru.com/wp-content/uploads/2019/08/Screenshot_504.jpg?fit=565%2C422&ssl=1)
+        - Reproduksi
+            - Berganti antara fase seksual dan aseksual
+            - **METAGENESIS**: Pengertian reproduksi aseksual dan seksual melalui suatu pergiliran keturunan.
+            - Spora -> Protonema -> Gametofit (Arkegonium + Anteridium) -> Zigot -> Sporofit (Sporogonium) -> Sporagium -> Spora.
+            - Daur Hidup / Siklus Hidup
+                - Fase Gametofit (fase reproduksi yang melibatkan jantan dan betina) / Seksual
+                    - Fase untuk Jantan
+                    - Fase untuk Betina
+                - Fase Sporofit (Fase untuk menghasilkan spora) / Aseksual
+                    - Fase untuk menghasilkan spora
+            - Instruksi Reproduksi SPOROFIT
+                - Lumut memiliki spora, yaitu calon individu baru
+                - Spora akan terbang terbawa angin atau air, dan kalau menempel di tempat tumbuh atau substrat yang tepat, maka masuk ke tahap **GAMETOFIT**.
+                - Yang pertama muncul adalah tunas.
+                    - Bentuk tunas halus dan panjang
+                    - Dinamakan **PROTONEMA** (Proto = Pertama, Nema = Benang)
+                - Protonema akan bertumbuh menjadi **GAMETOGONIUM** (alat reproduksi lumut)
+                    - Anteridium (Jantan) => Menghasilkan Spermatozoid
+                        - Berbentuk bulat seperti gada
+                    - Arkegonium (Betina) => Menghasilkan Ovum
+                        - Berbentuk seperti botol, bagian lebar perut bagian sempit leher
+                        - Menghasilkan zat kimia berupa gula atau protein untuk menarik spermatozoid
+                        - Gerak Spermatozoid menuju Ovum disebut **KEMOTAKSIS** (karena ada zat kimia tadi)
+                - Zigot akan dihasilkan setelah fertilisasi
+                - Zigot akan tumbuh dan punya satu kaki untuk menyerap air dan nutrisi dari Arkegonium.
+                - Terdapat **SETA** atau tangkai untuk menyalurkan nutrisi ke **SPOROGONIUM** (badan penghasil spora)
+                - Didalam Sporogonium terdapat **SPORANGIUM** (kotak spora) yang dapat menghasilkan 5 juta spora.
+                - Fase dari Zigot sampai terbentuknya Spora disebut **SPOROFIT**
+                - Spora yang dihasilkan akan berulang kembali dibawa angin/air dan menghasilkan tanaman baru.
+        - Pembagian Bryophyta berdasarkan bentuk tubuh
+            ![Gambar Klasifikasi Lumut](https://i.ibb.co/BjHvNzf/image.png)
+            - Bryopsida / Musci / Lumut Daun
+                - Ciri Khas:
+                    - Bagian atas sporongium ada cincin yang berbentuk seperti gigi (Peristom)
+                    - Tumbuhnya di batu, tembok, dan tempat-tempat terbuka yang lembab
+                    - Jikalau tempatnya kering, peristom akan membuka dan melepaskan spora 
+                - Contoh: Sphagnum fimbriatum, Poytichum juniperium, Funaria, Poganatum cirratum, lumut gambur (Sphagnum)
+            - Hepaticopsida / Lumut Hati
+                - Tubuh lumut hati tersusun atas struktur tubuh yang berbentuk hati pipih yang disebut talus yang tidak terdiferensiasi menjadi akar, batang, maupun daun. Tumbuhan lumut mempunyai tubuh yang terbagi menjadi dua lobus sehingga tampak seperti lobus pada hati.
+                - Dinamai lumut hati karena bentuknya mirip lobus hati manusia (bukan love-love itu)
+                - Ciri khas:
+                    - Bentuk tubuh berupa talus/lembaran
+                    - Rhizoid terdapat di bawah talus
+                    - Dapat ditemukan menempel di permukaan tanah, pohon, atau tebing-tebing yang basah
+                - Reproduksi
+                    - Generatif (Kawin)
+                        - Terdapat Gametogonium yang berbeda untuk Jantan dan Betina ![Gambar Gametogonium Jantan dan Betina](https://i.ibb.co/sJsmPV4/b3d8fe88-9504-430a-99a1-f7ce081f7abc.jpg)
+                        - Anteridium => Jantan, Arkegonium => Betina. Berada di talus TERPISAH.
+                    - Vegetatif (Tanpa Kawin)
+                        - Dapat membentuk **GEMMA** dari talusnya yang bisa terlepas dan membentuk individu baru
+                - Contoh: Marchantia polymorpha dan Porella
+            - Anthocerotopsida / Lumut Tanduk
+                -  Strukturnya mirip dengan lumut hati, namun memiliki sporofit yang memanjang dan tumbuh seperti tanduk dari hamparan gametofit
+                - Ciri Khas:
+                    - Ukuran 1-5cm
+                    - Dapat ditemukan di tanah lembap, tepi danau, sungai, sepanjang selokan
+                - Contoh: Anthoceros natans
+        - Peram Lumut Bagi Kehidupan
+            - Menjadi model eksperimen imuwan sebagai perwakilan tumbuhan
+            - Obat hepatitis (Marchantia polymorpha)
+            - Bahan pembalut pengganti kapas (Sphagnum)
+        - Manfaat Lumut
+            - Sebagai tumbuhan perintis
+            - Menyerap air sehingga mencegah banjir dan kekeringan
+            - Dibuat menjadi pupuk kompos
+            - Obat peradangan hati ringan (Marchantia)
+            - Spagnum dapat menggantukan kapas, menghasilkan parafin, asam asetat, tar, amoniak, yang digunakan dalam industri
+    - Pteridophyta (Tumbuhan Paku)
+        - Struktur Tubuh:
+            - Sudah memiliki akar, batang, dan daun sejati
+            - Memiliki jaringan pembuluh
+            - Ada yang kecil (2cm) dan besar (5m)
+            - Habitat: Daratan, Air (mengapung)
+            - Termasuk golongan Cormophyta berspora.
+            - WSporoﬁt Iebih dominan daripada gametoﬁt.
+            - WAnteridium dewasa menghasilkan sel telur haploid
+            - WSpora berkembang menjadi protalium.
+        - Tahapan Hidup
+            - Sporofit: Menghasilkan Spora
+                - Sering kita lihat
+                - Ukurannya lebih besar dan hidup lebih lama
+                - Daun yang berspora => **SPOROFIL**
+                - Daun yang tidak bersopra => **TROPOFIL**
+                - Spora dihasilkan didalam bagian khusus daun bernama **SPORANGIUM** dan dapat berkumpul membentuk **SORUS** (dilapisi oleh selaput indisium) yang dapat dilihat langsung dengan mata.
+                - Pembelahan Meiosis
+                - Paku dengan ukuran spora yang sama => **HOMOSPORA**
+                - Paku dengan ukuran spora yang berbeda => **HETEROSPORA** (Spora Besar = **MAKROSPORA**, Spora Kecil = **MIKROSPORA**)
+            - Reproduksi
+                - Spora yang berhasil tertanam akan tumbuh menjadi **PROTALIUM** (Tahap Gametofit)
+                    - Homospora dapat menjadi Protalium Jantan atau Betina
+                    - Heterospora, Besar menjadi Betina, Kecil menjadi Jantan
+                    - Protalium Jantan membentuk struktur Anteridium, menghasilkan Spermatozoid dengan alat gerak Flagella, dibantu dengan Air untuk mencapai Arkegonium.
+                    - Protalium Betina membentuk struktur Arkegonium, menghasilkan Ovum
+                - Hasil fertilisasi -> Zigot -> Embryo -> Paku -> Spora
+            - Gametofit: Menghasilkan Gamet
+            - See **METAGENESIS**
+        - Klasifikasi
+            ![Gambar Klasifikasi Paku](https://i.ibb.co/hfy6bTJ/image.png)
+            - Psilophyta / Psulophytinae (Paku Purba)
+                - Ciri Umum:
+                    - Tubuhnya sederhana sekali
+                    - Tidak punya akar
+                    - Daunnya kecil (mikofil) dan berbentuk sisik
+                    - Batang unik, warna hijau (mengandung klorofil), dapat berfotosintesis
+                    - Batang selalu bercabang DUA (dikotomi)
+                    - Tinggi mencapai 30cm hingga 1m
+                    - Tidak memiliki bulu pengangkut
+                - Contoh: Psilotum dan Rhynia
+            - Lycophyta / Lycopodiinae (Paku Kawat)
+                - Ciri Umum:
+                    - Ditemukan di Hutan2 daerah tropis dan sub-tropis
+                    - Daunnya kecil dan tersusun rapat
+                    - Bentuk batangnya seperti kawat
+                    - Menempel di pohon atau ditanah
+                    - Sporangium terdapat pada sporofil yang tersusun membentuk strobilus berbentuk kerucut pada ujung batang (sering disebut pinus tanah)
+                - Contoh: Paku Rane (Selaginella), Isoetes, Lycopodium
+            - Sphenophyta / Equisetinae (Paku Ekor Kuda)
+                - Ciri Umum:
+                    - Berdaun tunggal dengan ukuran kecil dan tersusun spiral
+                    - Batangnya kuat karena mengandung silika
+                    - Sporangium terletak di dalam strobilus (kerucut)
+                    - Batang berwarna hijau, dapat berfotosintesis, dan beruas-ruas
+                - Contoh: Equisetum debile (Bambu Air)
+            - Pterophyta / Filicinae (Paku Sejati)
+                - Paku yang sering ditemui
+                - Ciri Umum:
+                    - Daun berukuran besar (makrofil)
+                    - Daun muda bergulung
+                    - Sporangium terdapat pada sporofil (daun penghasil spora)
+                - Contoh: Paku Sarang Burung (Asplenium nidus), Suplir (Adiantum cuneatum), Paku Sawah (Azolla pinnata), Paku Tanduk Rusa (Platycerium bifurcatum), Paku Sayur (Diplazium esculentum), Semanggi (Marsilea crenata)
+        - Pembagian paku berdasarkan jenis sporanya
+            - Paku Homospor
+                - Berjumlah satu
+                - Spora jantan dan betina tidak dapat dibedakan 
+                - Contoh: Lycopodium
+            - Paku Peralihan
+                - Berjumlah satu
+                - Spora jantan dan betina berbeda bentuk
+                - Contoh: Equisetum
+            - Paku Heterospor
+                - Berjumlah dua
+                - Spora jantan dan betina dapat dibedakan dengan jelas
+                - Contoh: Marilea crenata, Selaginella
+    - Spermatophyta
+        - Terbagi berdasarkan bijinya:
+            | Pembagian | Gymnospermae | Angiospermae |
+            | --- | --- | --- |
+            | Biji | Tidak ditutupi daun lembaga (daging buah) | Ditutupi daun lembaga (daging buah) |
+            | Alat Reproduksi | Strobilus (Dioceus / berumah dua/ setiap strobilus hanya menghasilkan 1 macam gamet) | Bunga (Monoecius / berumah satu / setiap bunga menghasilkan 2 macam gamet)
+            | Akar | Tunggang | Tunggang atau serabut |
+            | Batang | Berkambium | Berkambium atau tidak berkambium |
+            | Daun | Tebal, sempit, kaku, **atau** tipis lebar | Lebar dengan pertulangan daun sejajar, menyirip atau menjari |
+            | Fertilisasi | Tunggal: Sel sperma (n) + Sel telur (n) -> Zigot (2n) | Ganda: [1. Inti generatif 1 (n) + ovum (n) -> Zigot (2n)] [2. Inti generatif 2 (n) + inti kandung lembaga sekunder (2) -> Endospermae (3n)] |
+            - Gymnospermae (Tumbuhan Biji Terbuka)
+                - Kelompok tumbuhan berbiji yang bijinya tidak tertutup oleh daging buah
+                - Ciri Umum:
+                    - Struktur perkembangan yang khas adalah biji yang dihasilkan oleh bunga
+                    - Sperma menuju ke sel telur melalui tabung serbuk sari yang hanya terdapat pada tumbuhan biji
+                    - Memiliki jaringan pembuluh
+                    - Memiliki pigmen hijau (klorofil)
+                - Organ Reproduksi: **STROBILUS**
+                    - Strobilus Jantan
+                        - Terdapat sel induk Mikrosporosit (berkembang menjadi Serbuk Sari)
+                    - Strobilus Betina
+                        - Memiliki bagian sisik-sisik yang terdapat biji
+                        - Sisik akan terbuka saat biji matang
+                        - Strobilus akan jatuh saat matang
+                        - Terdapat sel Megaspora
+                - Klasifikasi Tumbuhan Biji Terbuka:
+                    - Ginkgophyta
+                        - Ciri Umum:
+                            - Daun berbentuk kipas
+                            - Daun berubah warna menjadi kuning saat musim gugur
+                            - Buahnya busuk
+                            - Pohon besar yang tingginya bisa mencapai 30 meter
+                        - Contoh: Ginkgo biloba
+                    - Gnetophyta
+                        - Ciri Umum
+                            - Bersifat **Dioecious** (berumah dua, setiap individu tumbuhan hanya memiliki satu oragan reproduksi)
+                            - Tumbuh di daerah kering/gurun
+                            - Memiliki batang berkayu
+                        - Contoh: Melinjo, Ephedra, Welwitschia
+                    - Cycadophyta
+                        - Ciri Umum
+                            - Tubuh mirip tumbuhan palem
+                            - Daunnya banyak dan menumpuk di ujung
+                            - Bersifat Dioecious
+                            - Strobilus Jantan berbentuk mirip peluru, betina seperti keris
+                            - Tidak bercabang
+                            - Memiliki daun majemuk
+                        - Contoh: Cycas rumphii (pakis haji)
+                    - Coniferophyta / Pinophyta
+                        - Ciri Umum
+                            - Daun selalu hijau sepanjang tahun (Evergreen)
+                            - Daun berbentuk mirip jarum (Kecil2, panjang2)
+                            - Banyak ditemukan di daerah cuaca dingin
+                            - Tumbuhan berkayu
+                            - Bijinya tersusun dalam konus
+                        - Contoh: Ara douglas (Pseuidotsuga menziesii), Larch eropa (Larix decidua), Pinus nerkusii
+                - Manfaat:
+                    - Tanaman Hias (Pakis haji)
+                    - Sayuran (Melinjo)
+                    - Obat/Suplemen otak (Ginkgo)
+                    - Bahan baku kertas dan korek api (Pinus)
+            - Angiospermae (Tumbuhan Biji Tertutup):
+                - Terbagi atas:
+                    - Monocotyledoneae (berkeping satu)
+                        - Suku poaceae (contoh: Padi (Oryza sativa) dan Jagung (Zea mays))
+                        - Suku Cyperaceae (contoh: rumput teki (Cyperus rotundus))
+                        - Suku Palmae (contoh: Kelapa (cocos nucifera))
+                        - Suku Liliaceae (contoh: Lidah buaya (Aloe vera))
+                        - Suku Zingiberaceae (contoh: Jahe (Zingiber officinale))
+                        - Suku Musaceae (contoh: Pisang (Musa paradica))
+                    - Dicotyledonae (berkeping dua)
+- Notes:
+    - Lumut dan Paku
+        - Memiliki banyak kesamaan:
+            - Menghasilkan spora
+            - Mengalami metagenesis (pergiliran keturunan)
+            - Habitatnya di tempat lembab
+        - Perbedaannya
+            | Pembeda | Lumut | Paku |
+            | --- | --- | --- |
+            | Akar | Akar semu (Rhizoid) | Akar sejati (Akar serabut) |
+            | Batang | Tidak memiliki berkas pengangkut, Pengangkutan dilakukan oleh jaringan parenkim | Sudah memiliki pembuluh angkut xilem dan floem | 
+            | Daun muda | Tidak menggulung | Menggulung (sebutannya: circinate) |
+            | Bentuk daun | Tipis, kecil, halus, dan dilapisi oleh kutikula | Bervariasi: Mikrofil (ukuran kecil), Makrofil (ukuran besar), Tropofil (daun steril), Sporofil (daun penghasil spora)
+        - Rhizoid adalah akar semu untuk melekat pada substrat dan menyerap hara
+        - Spora tersimpan didalam sorus dibawah daun
+        - Sekumpulan Sorus disebut sori
+        - Xilem mengangkut aior dan zat hara dari akar ke daun
+        - Floem menangkut hasil fotosintesis dari daun ke seluruh tubuh
+        - Daun muda yang menggulung disebut Circinate
+        - Fase dominan pada lumut: Gametofit
+        - Fase dominan pada paku: Sporofit 
+        - Tumbuhan paku homospora: tumbuhan paku yg menghasilkan spora dengan jenis dan ukuran yg sama
+        - Tumbuhan paku heterospora: tumbuhan paku yg menghasilkan dua jenis spora yg berlainan ukurannya
+        - Tumbuhan paku peralihan: peralihan antara paku homospora dan paku heterospora. paku ini menghasilkan 2 jenis spora yaitu spora jantan dan spora betina yg berukuran sama
+
+## Kingdom Animalia (Hewan)
+- Ciri umum:
+    - Multiseluler
+    - Eukariotik
+    - Heterotrof
+    - Bergerak aktif
+    - Tidak memiliki dinding sel
+- Dapat dibagi berdasarkan ada tidaknya tulang belakang
+    - Invertebrata (Tidak memiliki tulang belakang)
+        ![](https://i.ibb.co/FgV50Q4/image.png)

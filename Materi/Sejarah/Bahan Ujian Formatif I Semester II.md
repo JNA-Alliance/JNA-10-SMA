@@ -4,7 +4,7 @@
     - **TEORI MEKKAH** 
         - Islam dibawa oleh pedagang dari Mekkah pada abad 7M.
         - Bukti:
-            - Terdapat Perkampungan Islam di Barus, Sumatera di tahun 674M
+            - Terdapat Perkampungan Islam di Baros, Sumatera di tahun 674M
             - Ditemukannya makam "Fatimah binti Maimun" di Gresik
             - Adanya pemakaman Islam di wilayah Majapahit di Trowulan
         - Pendukung:
