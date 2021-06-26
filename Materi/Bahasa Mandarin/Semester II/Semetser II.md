@@ -45,4 +45,32 @@
     15. 讨厌 / Tǎo yàn / dislike; hate / 5, 6
     16. 滑 / Huá / slippery / 13
     17. 方便 / Fāng biàn / convenient / 4, 9
-    18. 
+    18. 生活 / Shēng huó / life; livelihood / 5, 9
+    19. 涼快 / Liáng kuai / cool; cool off / 11, 7
+    20. 气温 / Qì wēn / temperature / 4, 12
+    21. 大约 / Dà yuē / about; approximately / 3, 6
+    22. 攝氏度 / Shè shì dù / degree; celcius / 21, 4, 9
+    23. 中午 / Zhōng wǔ / noon / 4, 4
+
+- Pelajaran 13
+    1. 傍晚 / Bàng wǎn / evening / 12, 11
+    2. 书房 / Shū fáng / study room; study / 4, 8
+    3. 电影 / Diàn yǐng / movie / 5, 15
+    4. 毞 (筆) / Pí (Bǐ) / pen / 12
+    5. 搖 / Yáo / shake / 13
+    6. 历㕜 / Lì shǐ / history / 4, 6
+    7. 測驗 / Cè yàn / test / 12, 23
+    8. 改天 / Gǎi tiān / another day / 7, 4
+    9. 覚得 (觉得) / Jué dé / feel / 12, 11 (9, 11)
+    10. 失望 / Shī wàng / disappointed / 5, 11
+    11. 过后 / Guò hòu / afterwards; later on; after / 7, 6
+    12. 溫习 / Wēn xí / revise; review / 13, 3
+    13. 等 / Děng / wait / 12
+    14. 周末 / Zhōu mò / weekends / 8, 5
+    15. 空闲 / Kòng xián / free; have spare time; idle / 8, 7
+    16. 电脑 / Diàn nǎo / computer / 5, 10
+    17. 游戏 / Yóu xì / games; game / 12, 6
+    18. 宝贵 / Bǎo guì / valuable; precious / 8, 9
+    19. 急 / Jí / anxious (about something) / 9
+    20. 考試 / Kǎo shì / examinations / 6, 13
+    21. 利用 / Lì yòng / make use of / 7, 5
