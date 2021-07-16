@@ -1,4 +1,4 @@
-# JNY Alliance SMA
+# JNY Alliance SMA 1
 Materials for Class 10 MIA-A by JNY Alliance
 
 # JNY Alliance
